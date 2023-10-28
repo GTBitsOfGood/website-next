@@ -1,0 +1,24 @@
+{
+  "data": [
+      {
+          "heading": "Contact Us",
+          "subheading": "Want to get in touch with us?",
+          "infoText": {
+              "html": "<p>Want to learn more about Bits of Good? Send us a message or email us at <a href=\"mailto:gt@hack4impact.org\"></a><a href=\"mailto:gt@hack4impact.org\">gt@hack4impact.org</a></p>",
+              "inlineHtml": "Want to learn more about Bits of Good? Send us a message or email us at <a href=\"mailto:gt@hack4impact.org\"></a><a href=\"mailto:gt@hack4impact.org\">gt@hack4impact.org</a>"
+          },
+          "addressHeading": "Or find us in person!",
+          "addressLine1": "The Garage at Tech Square",
+          "addressLine2": "848 Spring St NW, Atlanta, GA 30308",
+          "addressUrl": "https://g.page/thegaragetechsquare?share",
+          "namePlaceholder": "Johnny Dogooder",
+          "emailPlaceholder": "hello@nonprofit.org",
+          "messagePlaceholder": "I had a question about...",
+          "formSubmissionButton": "Message us!",
+          "artwork": {
+              "src": "//images.ctfassets.net/zifivti966xh/7vHvsu8HUaKOkUe8xrI8eI/a2a0f69c3009e73f90483ee80c94e2b9/orgsite_illo1.svg",
+              "alt": "Abstract drawing of people swirling around with laptops"
+          }
+      }
+  ]
+}
