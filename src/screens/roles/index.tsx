@@ -1,11 +1,26 @@
-import { useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import classes from '@/styles/role.module.css';
 import Department from '../../components/about-us/roles/Department';
 import departments from '@contentful-entries/roleDepartment';
 import headerContent from '@contentful-entry/rolesHeader';
 
 const RolesPage = () => {
+  const [data, setData] = useState([]);
   useEffect(() => {
+    fetch('/data.json') // Path to your JSON file
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Network response was not ok');
+          }
+          return response.json();
+        })
+        .then(jsonData => {
+          setData(jsonData);
+        })
+        .catch(error => {
+          console.error('Error fetching data:', error);
+        });
+
     if (location.hash) {
       scrollToDepartment(location.hash.slice(1));
     }
