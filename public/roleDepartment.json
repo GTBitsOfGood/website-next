@@ -1,0 +1,280 @@
+{
+  "data": [
+      {
+          "name": "Design",
+          "briefDescription": {
+              "html": "<p>User-focused members that either work with nonprofits to solve their needs from a UX and UI perspective, or work with our brand team to illuminate the BoG mission.</p>",
+              "inlineHtml": "User-focused members that either work with nonprofits to solve their needs from a UX and UI perspective, or work with our brand team to illuminate the BoG mission."
+          },
+          "description": {
+              "html": "<p>The design team consists of product designers, design bootcampers, and design executive roles. Product designers work on nonprofit project teams with PMs and engineers, identifying design needs and creating lofi-to-hifi mockups. Our design bootcampers go through a one-semester product design course that broadly covers the end-to-end research and design process.</p>",
+              "inlineHtml": "The design team consists of product designers, design bootcampers, and design executive roles. Product designers work on nonprofit project teams with PMs and engineers, identifying design needs and creating lofi-to-hifi mockups. Our design bootcampers go through a one-semester product design course that broadly covers the end-to-end research and design process."
+          },
+          "image": {
+              "src": "//images.ctfassets.net/zifivti966xh/4xjsrFPG6HlA01mQ60Ynb2/0450f02bf5b0aca33b5b959133f76157/design.svg",
+              "alt": "Abstract image of designer pulling open a lasso"
+          },
+          "roles": [
+              {
+                  "name": "Product Designer",
+                  "briefDescription": "Master of product mockups and UX",
+                  "description": {
+                      "html": "<p>Product designers are expected to work on nonprofit project teams with PMs and engineers, both working to identify client needs from a UX perspective and drafting usable UI mockups.</p><p><strong>Responsibilities</strong></p><ul><li><p>Work closely with PM to identify design needs and lead user research</p></li><li><p>Work collaboratively with the team&#39;s Engineering Manager to make sure your design ideas are actionable</p></li><li><p>Work on product design, from lo-fi wireframes to hi-fi mockups</p></li><li><p>Attend weekly design critique sessions to learn and give feedback</p></li></ul><p><strong>Time commitment</strong></p><p>5-7 hours per week, including hour-long general meetings and weekly design critique sessions</p><p><strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong></p>",
+                      "inlineHtml": "Product designers are expected to work on nonprofit project teams with PMs and engineers, both working to identify client needs from a UX perspective and drafting usable UI mockups.<strong>Responsibilities</strong><ul><li>Work closely with PM to identify design needs and lead user research</li><li>Work collaboratively with the team&#39;s Engineering Manager to make sure your design ideas are actionable</li><li>Work on product design, from lo-fi wireframes to hi-fi mockups</li><li>Attend weekly design critique sessions to learn and give feedback</li></ul><strong>Time commitment</strong>5-7 hours per week, including hour-long general meetings and weekly design critique sessions<strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong>"
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdINNs8G_J17avN2umudPygBEbYo_ZBR2FhSuwhbUbcqBpf-A/viewform?usp=sf_link",
+                  "learnMoreHash": "design"
+              },
+              {
+                  "name": "Design Operations",
+                  "briefDescription": "Helps build design team processes at scale",
+                  "description": {
+                      "html": "<p>Design Operations are expected to work closely with the Director and Associate Director of Design, working with high-level goals and operations and creating a strong foundation to improve the design team experience.</p><p><strong>Responsibilities</strong></p><ul><li><p>Work closely with Director and Associate Director of Design to plan design team initiatives and events.</p></li><li><p>Communicate with hack4impact design and operations as a point of contact.</p></li><li><p>Meet with design team members to identify areas of concern or to receive feedback.</p></li><li><p>Document team growth, member feedback, and design tools for management, organization, and end-of-semester review</p></li></ul><p><strong>Time commitment</strong><br/>4-6 hours per week, including hour-long general meetings and meetings with design directors.</p><p><strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong></p>",
+                      "inlineHtml": "Design Operations are expected to work closely with the Director and Associate Director of Design, working with high-level goals and operations and creating a strong foundation to improve the design team experience.<strong>Responsibilities</strong><ul><li>Work closely with Director and Associate Director of Design to plan design team initiatives and events.</li><li>Communicate with hack4impact design and operations as a point of contact.</li><li>Meet with design team members to identify areas of concern or to receive feedback.</li><li>Document team growth, member feedback, and design tools for management, organization, and end-of-semester review</li></ul><strong>Time commitment</strong><br/>4-6 hours per week, including hour-long general meetings and meetings with design directors.<strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong>"
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdINNs8G_J17avN2umudPygBEbYo_ZBR2FhSuwhbUbcqBpf-A/viewform?usp=sf_link",
+                  "learnMoreHash": "design"
+              },
+              {
+                  "name": "Design Bootcamp Instructor",
+                  "briefDescription": "Leaders who develop future Bits of Good designers",
+                  "description": {
+                      "html": "<p>Design Bootcamp Instructors lead the Bits of Good Design Bootcamp by recruiting bootcampers, planning the bootcamp curriculum, and facilitating weekly workshops to teach bootcampers the fundamentals of product design.<strong></strong></p><p><strong>Recommended Skills</strong></p><ul><li><p>Intermediate to advanced knowledge of User Research</p><ul><li><p>Primary and secondary research, usability testing, research methods, and synthesis methods</p></li></ul></li><li><p>Intermediate to advanced knowledge of UX and UI Design</p><ul><li><p>Iteration, visual design, prototyping, wireframing, and user flows</p></li></ul></li><li><p>Advanced knowledge of Figma</p></li></ul><p><strong>Time Commitment</strong></p><p>2-6 hours per week</p>",
+                      "inlineHtml": "Design Bootcamp Instructors lead the Bits of Good Design Bootcamp by recruiting bootcampers, planning the bootcamp curriculum, and facilitating weekly workshops to teach bootcampers the fundamentals of product design.<strong></strong><strong>Recommended Skills</strong><ul><li>Intermediate to advanced knowledge of User Research<ul><li>Primary and secondary research, usability testing, research methods, and synthesis methods</li></ul></li><li>Intermediate to advanced knowledge of UX and UI Design<ul><li>Iteration, visual design, prototyping, wireframing, and user flows</li></ul></li><li>Advanced knowledge of Figma</li></ul><strong>Time Commitment</strong>2-6 hours per week"
+                  },
+                  "applyLink": "https://forms.gle/rJJhKVMg25WAv2ddA",
+                  "learnMoreHash": "design"
+              },
+              {
+                  "name": "Design Bootcamper",
+                  "briefDescription": "Students intrigued by the world of design",
+                  "description": {
+                      "html": "<p>Participate in a 10 week course on the core fundamentals of UX/UI and designing for digital products where you will learn about:</p><ul><li><p>User Research Methods and Frameworks</p></li><li><p>How to create User Flows and Information Architecture</p></li><li><p>Designing and Prototyping in Figma</p></li></ul><p><strong>Time commitment: </strong>5-7 hours per week (including lecture time) </p><p></p><p></p>",
+                      "inlineHtml": "Participate in a 10 week course on the core fundamentals of UX/UI and designing for digital products where you will learn about:<ul><li>User Research Methods and Frameworks</li><li>How to create User Flows and Information Architecture</li><li>Designing and Prototyping in Figma</li></ul><strong>Time commitment: </strong>5-7 hours per week (including lecture time) "
+                  },
+                  "applyLink": "https://forms.gle/wMGii4G1wYBiVrmh7",
+                  "learnMoreHash": "design"
+              }
+          ],
+          "hash": "design"
+      },
+      {
+          "name": "Engineering",
+          "briefDescription": {
+              "html": "<p>The bread and butter of our nonprofit teams. These members may work in any area of the stack to learn and deliver powerful web applications.</p>",
+              "inlineHtml": "The bread and butter of our nonprofit teams. These members may work in any area of the stack to learn and deliver powerful web applications."
+          },
+          "description": {
+              "html": "<p>Software engineers handle the nuts-and-bolts of all of our projects. They build rich, JavaScript-based web applications using the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS). You can specialize in frontend or backend, or become a jack-of-all-trades!</p>",
+              "inlineHtml": "Software engineers handle the nuts-and-bolts of all of our projects. They build rich, JavaScript-based web applications using the MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS). You can specialize in frontend or backend, or become a jack-of-all-trades!"
+          },
+          "image": {
+              "src": "//images.ctfassets.net/zifivti966xh/554gJviPEbnIlbGQEYi4AK/803d8780482fb27cf44cec0fdf77527e/engineering.svg",
+              "alt": "Abstract engineer perilously stacking shapes"
+          },
+          "roles": [
+              {
+                  "name": "Engineering Manager",
+                  "briefDescription": "Arbiter of the dev roadmap and GitHub guru",
+                  "description": {
+                      "html": "<p>The planners on each engineering team, working between the <strong>product manager</strong> and project developers to plan each development cycle. These aren&#39;t just coders; they&#39;re communicators and planners!</p><p><strong>Responsibilities</strong></p><ul><li><p>Work with product managers to convert product specifications into <strong>actionable developer tasks</strong></p></li><li><p>Work with designers to inform a frontend development roadmap and communicate what&#39;s technically feasible</p></li><li><p>Plan bi-weekly developer <strong>sprint cycles </strong>based on the Agile Development practice</p></li><li><p>Help with development on the project&#39;s codebase, though this is not required!</p></li></ul><p><strong>Time commitment</strong></p><p>5-6 hours per week, including hour-long general meetings</p><p><strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong></p>",
+                      "inlineHtml": "The planners on each engineering team, working between the <strong>product manager</strong> and project developers to plan each development cycle. These aren&#39;t just coders; they&#39;re communicators and planners!<strong>Responsibilities</strong><ul><li>Work with product managers to convert product specifications into <strong>actionable developer tasks</strong></li><li>Work with designers to inform a frontend development roadmap and communicate what&#39;s technically feasible</li><li>Plan bi-weekly developer <strong>sprint cycles </strong>based on the Agile Development practice</li><li>Help with development on the project&#39;s codebase, though this is not required!</li></ul><strong>Time commitment</strong>5-6 hours per week, including hour-long general meetings<strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong>"
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScTolu4dyIXpYw3q55dwswtHTo3YylIWZJk3kE1xOhgKvo_tQ/viewform?usp=sf_link",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Developer Bootcamp Instructor",
+                  "briefDescription": "Instructors to teach basics of React and Express",
+                  "description": {
+                      "html": "<p>As a BoG Bootcamp instructor, you will be helping 20-30 students learn the basics of web development for four weeks. Afterwards, you and other instructors will split the class into two sections: frontend and backend. The frontend section will be focused on learning the basics of React to build smooth UI while the backend will be focused on MongoDB and Express to build reliable APIs.</p><p><strong>Recommended Skills</strong></p><ul><li><p><strong>Mastery in basic web development fundamentals</strong></p><ul><li><p>As the first half of the bootcamp revolves around basic HTML, CSS, and JS, having a core understanding and solid foundation in these skills is critical to being a bootcamp instructor.</p></li><li><p>On top of the basic web stack, understanding how the internet works and the rationale and structure of the web and how web applications function is very important as well.</p></li></ul><p></p></li><li><p><strong>Specialized mastery in Frontend or Backend development</strong></p><ul><li><p>During the second half of the bootcamp, bootcampers will split off into either a backend or frontend section.</p></li><li><p>Frontend instructors should have a strong understanding of React and a baseline understanding of NextJS and SSR.</p></li><li><p>Backend instructors should have a strong understanding of Express, APIs, and MongoDB, with a baseline understanding of Mongoose and authentication.</p></li></ul><p></p></li><li><p><strong>Ability to Teach</strong></p></li></ul><p><strong>Time Commitment </strong></p><ul><li><p>6-8 hours per week</p></li></ul><p></p>",
+                      "inlineHtml": "As a BoG Bootcamp instructor, you will be helping 20-30 students learn the basics of web development for four weeks. Afterwards, you and other instructors will split the class into two sections: frontend and backend. The frontend section will be focused on learning the basics of React to build smooth UI while the backend will be focused on MongoDB and Express to build reliable APIs.<strong>Recommended Skills</strong><ul><li><strong>Mastery in basic web development fundamentals</strong><ul><li>As the first half of the bootcamp revolves around basic HTML, CSS, and JS, having a core understanding and solid foundation in these skills is critical to being a bootcamp instructor.</li><li>On top of the basic web stack, understanding how the internet works and the rationale and structure of the web and how web applications function is very important as well.</li></ul></li><li><strong>Specialized mastery in Frontend or Backend development</strong><ul><li>During the second half of the bootcamp, bootcampers will split off into either a backend or frontend section.</li><li>Frontend instructors should have a strong understanding of React and a baseline understanding of NextJS and SSR.</li><li>Backend instructors should have a strong understanding of Express, APIs, and MongoDB, with a baseline understanding of Mongoose and authentication.</li></ul></li><li><strong>Ability to Teach</strong></li></ul><strong>Time Commitment </strong><ul><li>6-8 hours per week</li></ul>"
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScVgrwUhWkniMAuJ1UAHLtCGyMgutuNY5Vzb6pc7-MUWAjBwg/viewform?usp=sf_link",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Developer",
+                  "briefDescription": "An experienced webdev ready to dive into our JS-heavy stack",
+                  "description": {
+                      "html": "<p>Experienced web developers that know their way around a web app. If they lack experience with a framework or tool, our Senior Developers are always ready to help!</p><p><strong>Responsibilities</strong></p><ul><li><p>Assign themselves to whatever tasks they&#39;re confident in completing</p></li><li><p>Create &quot;pull requests&quot; to the team&#39;s GitHub repository, reviewed by the team&#39;s Senior Developers</p></li><li><p>Have experience with some or all aspects of the MERN Stack (MongoDB, ExpressJS, ReactJS, Node). Understanding of the NextJS framework is a plus!</p></li></ul><p><strong>Time commitment</strong></p><p>3-5 hours per week, including hour-long general meetings</p><p><strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong></p>",
+                      "inlineHtml": "Experienced web developers that know their way around a web app. If they lack experience with a framework or tool, our Senior Developers are always ready to help!<strong>Responsibilities</strong><ul><li>Assign themselves to whatever tasks they&#39;re confident in completing</li><li>Create &quot;pull requests&quot; to the team&#39;s GitHub repository, reviewed by the team&#39;s Senior Developers</li><li>Have experience with some or all aspects of the MERN Stack (MongoDB, ExpressJS, ReactJS, Node). Understanding of the NextJS framework is a plus!</li></ul><strong>Time commitment</strong>3-5 hours per week, including hour-long general meetings<strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong>"
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Dev Bootcamper",
+                  "briefDescription": "Students excited to make an impact with webdev",
+                  "description": {
+                      "html": "<p>Those with entry-level programming experience, but little exposure to web development. Join if you&#39;re excited to learn about web technologies, or you&#39;re just hyped to make an impact in the social good space!</p><p>Note bootcampers are <strong>not</strong> <strong>guaranteed a spot as a Developer </strong>the semester following their course completion.</p><p><strong>Responsibilities</strong></p><ul><li><p>Follow along with our <a href=\"https://www.notion.so/gtbitsofgood/Bootcamp-b1fe164df73e42d3b9c2ab0755e4ca49\">online curriculum</a>, completing activities as we go</p></li><li><p>Attend office hours to catch up on missed material, or for concept clarification</p></li><li><p>Get <em>jazzed</em> to work on team projects and help out your peers</p></li></ul><p><strong>Time commitment</strong></p><p>4-5 hours per week, including 2 in-person workshops</p>",
+                      "inlineHtml": "Those with entry-level programming experience, but little exposure to web development. Join if you&#39;re excited to learn about web technologies, or you&#39;re just hyped to make an impact in the social good space!Note bootcampers are <strong>not</strong> <strong>guaranteed a spot as a Developer </strong>the semester following their course completion.<strong>Responsibilities</strong><ul><li>Follow along with our <a href=\"https://www.notion.so/gtbitsofgood/Bootcamp-b1fe164df73e42d3b9c2ab0755e4ca49\">online curriculum</a>, completing activities as we go</li><li>Attend office hours to catch up on missed material, or for concept clarification</li><li>Get <em>jazzed</em> to work on team projects and help out your peers</li></ul><strong>Time commitment</strong>4-5 hours per week, including 2 in-person workshops"
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Engineering Operations",
+                  "briefDescription": "Helps build engineering team processes at scale",
+                  "description": {
+                      "html": "<p>Engineering Operations are expected to work closely with the Director and Associate Director of Engineering, working with high-level goals and operations and creating a strong foundation to foster community among engineering managers, developers &amp; engineering bootcampers.</p><p><strong>Responsibilities</strong></p><ul><li><p>Work closely with Engineering Exec to plan engineering centric initiatives and events.</p></li><li><p>Work with Engineering Exec to evaluate and improve engineering applications and recruitment</p></li><li><p>Document team growth, member feedback, and engineering tools for management, organization, and end-of-semester review</p></li></ul><p><strong>Who are we looking for?</strong></p><ul><li><p>Like every other role in Bits of Good we are always looking for yellow jackets passionate about social good</p></li><li><p>Technical experience is <strong>not</strong> required, however, if you do have technical experience or want to improve your technical ability then we do have technical tasks you can take on!</p></li></ul><p><strong>Time commitment:</strong> 2-6 hours per week, including hour-long general meetings and meetings with engineering directors.</p><p><strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong></p>",
+                      "inlineHtml": "Engineering Operations are expected to work closely with the Director and Associate Director of Engineering, working with high-level goals and operations and creating a strong foundation to foster community among engineering managers, developers &amp; engineering bootcampers.<strong>Responsibilities</strong><ul><li>Work closely with Engineering Exec to plan engineering centric initiatives and events.</li><li>Work with Engineering Exec to evaluate and improve engineering applications and recruitment</li><li>Document team growth, member feedback, and engineering tools for management, organization, and end-of-semester review</li></ul><strong>Who are we looking for?</strong><ul><li>Like every other role in Bits of Good we are always looking for yellow jackets passionate about social good</li><li>Technical experience is <strong>not</strong> required, however, if you do have technical experience or want to improve your technical ability then we do have technical tasks you can take on!</li></ul><strong>Time commitment:</strong> 2-6 hours per week, including hour-long general meetings and meetings with engineering directors.<strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong>"
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSeD8Qre_WG8gV8lh31SsQ7Mv32rv_a4-hONziApnPuC_jBrwg/viewform?usp=sf_link",
+                  "learnMoreHash": "engineering"
+              }
+          ],
+          "hash": "engineering"
+      },
+      {
+          "name": "Product",
+          "briefDescription": {
+              "html": "<p>The leaders that weigh the needs of our nonprofits, technical challenges of our devs, and creative vision of our designers to deliver production-ready applications.</p>",
+              "inlineHtml": "The leaders that weigh the needs of our nonprofits, technical challenges of our devs, and creative vision of our designers to deliver production-ready applications."
+          },
+          "description": {
+              "html": "<p>The product team defines project expectations and application features by working with our nonprofit partners. More than anything, they are effective communicators that can talk to clients in terms they understand. They also gain familiarity in drafting a product spec and an actionable product roadmap.</p>",
+              "inlineHtml": "The product team defines project expectations and application features by working with our nonprofit partners. More than anything, they are effective communicators that can talk to clients in terms they understand. They also gain familiarity in drafting a product spec and an actionable product roadmap."
+          },
+          "image": {
+              "src": "//images.ctfassets.net/zifivti966xh/6oqRikggC8jekuCT6OasOk/2ec40e4fa73805096a67b0c10259a187/product.svg",
+              "alt": "Abstract product member holding a triangle similar to a stethoscope"
+          },
+          "roles": [
+              {
+                  "name": "Product Manager",
+                  "briefDescription": "The frontline client communicator and project team lead",
+                  "description": {
+                      "html": "<p>More experienced leaders who can confidently make decisions, bring members together, and ultimately lead their teams to success. Consider this role if you have prior team leadership or management experience, preferably in the software development field (like VIPs, group projects, etc)</p><p><strong>Responsibilities</strong></p><ul><li><p>Serve as the primary point of contact with your nonprofit partner</p></li><li><p>Lead and guide your development team to success</p><ul><li><p>Cultivate a strong team dynamic and relationships within the team through everyday activities and events</p></li><li><p>Establish meaningful regular meetings during which your team can effectively work on the product goals</p></li></ul></li><li><p>Build strong documentation to support your product and its future use</p></li></ul><p><strong>Time Commitment</strong></p><p>8-10 hours per week, including hour-long general meetings, meetings with your team and leadership, and meetings with the nonprofit partner.</p><p><strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong></p>",
+                      "inlineHtml": "More experienced leaders who can confidently make decisions, bring members together, and ultimately lead their teams to success. Consider this role if you have prior team leadership or management experience, preferably in the software development field (like VIPs, group projects, etc)<strong>Responsibilities</strong><ul><li>Serve as the primary point of contact with your nonprofit partner</li><li>Lead and guide your development team to success<ul><li>Cultivate a strong team dynamic and relationships within the team through everyday activities and events</li><li>Establish meaningful regular meetings during which your team can effectively work on the product goals</li></ul></li><li>Build strong documentation to support your product and its future use</li></ul><strong>Time Commitment</strong>8-10 hours per week, including hour-long general meetings, meetings with your team and leadership, and meetings with the nonprofit partner.<strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong>"
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScr6UKj38DxHaYzoveM8vrE1FgtpZ6LpnvbZkbBcsMRyl6WIQ/viewform?usp=sf_link",
+                  "learnMoreHash": "product"
+              }
+          ],
+          "hash": "product"
+      },
+      {
+          "name": "Operations",
+          "briefDescription": {
+              "html": "<p>The leaders of our events, finances, and logistics. This department is the glue finding fun, creative ways to bring our community closer together.</p>",
+              "inlineHtml": "The leaders of our events, finances, and logistics. This department is the glue finding fun, creative ways to bring our community closer together."
+          },
+          "description": {
+              "html": "<p>Operations and Community is all about events and logistics. Members may focus on managing organization finances, concentrate in member management &amp; recruitment, or focus on planning events to bring our community closer together.</p>",
+              "inlineHtml": "Operations and Community is all about events and logistics. Members may focus on managing organization finances, concentrate in member management &amp; recruitment, or focus on planning events to bring our community closer together."
+          },
+          "image": {
+              "src": "//images.ctfassets.net/zifivti966xh/6emyLc8ZokBb6MzYhlqONg/233b10f0ced35fa9964ff21149069e89/SpotIllo_Operations.svg",
+              "alt": "Abstract operations member holding a bundle of shapes together"
+          },
+          "roles": [
+              {
+                  "name": "Operations and Community Coordinator",
+                  "briefDescription": "Coordinator of club initiatives, logistics, and more",
+                  "description": {
+                      "html": "<p>Members of the Operations Team are responsible for working together to ensure all club events and initiatives are running smoothly and efficiently. This includes responsibilities from finances to event logistics. Depending on your time commitment, you can find any niche(s) you desire. If you are all about planning and want to make our community a little bit closer, or enjoy finances &amp; human resources, definitely consider this role!</p><p><strong>Responsibilities</strong></p><ul><li><p>Organizing opportunities for members to build meaningful connections with each other.</p></li><li><p>Managing club finances, budget, and expenditures.</p></li><li><p>Creating fundraisers </p></li><li><p>Managing recruitment logistics.</p></li><li><p>Furthering Bits of Good’s relationships with the Georgia Tech and greater Atlanta communities. <br/></p></li></ul><p><strong>Time commitment</strong></p><p>3-5 hours per week, depending on your enthusiasm</p><p><strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong></p>",
+                      "inlineHtml": "Members of the Operations Team are responsible for working together to ensure all club events and initiatives are running smoothly and efficiently. This includes responsibilities from finances to event logistics. Depending on your time commitment, you can find any niche(s) you desire. If you are all about planning and want to make our community a little bit closer, or enjoy finances &amp; human resources, definitely consider this role!<strong>Responsibilities</strong><ul><li>Organizing opportunities for members to build meaningful connections with each other.</li><li>Managing club finances, budget, and expenditures.</li><li>Creating fundraisers </li><li>Managing recruitment logistics.</li><li>Furthering Bits of Good’s relationships with the Georgia Tech and greater Atlanta communities. <br/></li></ul><strong>Time commitment</strong>3-5 hours per week, depending on your enthusiasm<strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong>"
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSd5mo_fTie5Dx3Mm4OsLj0ddWQ0FCj0LBytH9nEdT7R_Z8Arg/viewform?usp=sf_link",
+                  "learnMoreHash": "operations"
+              }
+          ],
+          "hash": "operations"
+      },
+      {
+          "name": "Marketing",
+          "briefDescription": {
+              "html": "<p>The communicators and creative writers that advertise our mission. They handle our social media, flyers, and our upcoming BoG Blog content.</p>",
+              "inlineHtml": "The communicators and creative writers that advertise our mission. They handle our social media, flyers, and our upcoming BoG Blog content."
+          },
+          "description": {
+              "html": "<p>Marketing manages external branding and communication for BoG, creates marketing campaigns for BoG events, and attracts non-profits and sponsors towards the BoG mission. These are the writers and creators that realize BoG&#39;s vision in all forms of media.</p>",
+              "inlineHtml": "Marketing manages external branding and communication for BoG, creates marketing campaigns for BoG events, and attracts non-profits and sponsors towards the BoG mission. These are the writers and creators that realize BoG&#39;s vision in all forms of media."
+          },
+          "image": {
+              "src": "//images.ctfassets.net/zifivti966xh/d5CHX4nUiI03VJiZ8gnDT/346c5b2f3a18de550684be1f287d7574/marketing.svg",
+              "alt": "Woman sprinkling sparkles onto a shape"
+          },
+          "roles": [
+              {
+                  "name": "Content Writer",
+                  "briefDescription": "Quick with a pen, ready to inspire others",
+                  "description": {
+                      "html": "<p>Our writers produce short and long-form content for our upcoming BoG Blog. Most of the role involves writing, editing, absorbing the latest news in social good, and getting the world excited about our org!</p><p><strong>Responsibilities</strong></p><ul><li><p>Produce content about Bits of Good and our mission. This includes <strong>writing</strong> articles, taking <strong>photos</strong>, and <strong>editing</strong> articles written by other BoG departments</p></li><li><p>Maintain the BoG Blog by uploading articles in a timely manner, managing the scheduled release of articles, and communicating with design ahead of time for any imagery</p></li></ul><p><strong>Time commitment</strong></p><p>2-3 hours per week</p><p><strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong></p>",
+                      "inlineHtml": "Our writers produce short and long-form content for our upcoming BoG Blog. Most of the role involves writing, editing, absorbing the latest news in social good, and getting the world excited about our org!<strong>Responsibilities</strong><ul><li>Produce content about Bits of Good and our mission. This includes <strong>writing</strong> articles, taking <strong>photos</strong>, and <strong>editing</strong> articles written by other BoG departments</li><li>Maintain the BoG Blog by uploading articles in a timely manner, managing the scheduled release of articles, and communicating with design ahead of time for any imagery</li></ul><strong>Time commitment</strong>2-3 hours per week<strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong>"
+                  },
+                  "applyLink": "https://forms.gle/M8QT1X37rWMk2FCP6",
+                  "learnMoreHash": "marketing"
+              },
+              {
+                  "name": "Brand Marketer",
+                  "briefDescription": "Knower of all-things communication and social media",
+                  "description": {
+                      "html": "<p><strong>Responsibilities</strong></p><ul><li><p>Manage the social media presence of BoG: Taking pictures at events, scheduling posts, etc.</p></li><li><p>Work on long form marketing campaigns that are used to raise awareness among our four target audiences: members, non-members, non-profits, and sponsors</p></li><li><p>Create any and all marketing materials with the intent to advertise BoG events</p></li><li><p>Handle branding with emphasis on cohesive tone and image, ensure that the greater community understands the BoG mission statement</p></li></ul><p><strong>Time commitment:</strong> </p><p>4-5 hours per week</p><p><strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong></p>",
+                      "inlineHtml": "<strong>Responsibilities</strong><ul><li>Manage the social media presence of BoG: Taking pictures at events, scheduling posts, etc.</li><li>Work on long form marketing campaigns that are used to raise awareness among our four target audiences: members, non-members, non-profits, and sponsors</li><li>Create any and all marketing materials with the intent to advertise BoG events</li><li>Handle branding with emphasis on cohesive tone and image, ensure that the greater community understands the BoG mission statement</li></ul><strong>Time commitment:</strong> 4-5 hours per week<strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong>"
+                  },
+                  "applyLink": "https://forms.gle/M8QT1X37rWMk2FCP6",
+                  "learnMoreHash": "marketing"
+              }
+          ],
+          "hash": "marketing"
+      },
+      {
+          "name": "Brand",
+          "briefDescription": {
+              "html": "<p>Artisan of online presence, print, and BoG &quot;look and feel&quot;</p>",
+              "inlineHtml": "Artisan of online presence, print, and BoG &quot;look and feel&quot;"
+          },
+          "description": {
+              "html": "<p>Brand is a special part of BoG&#39;s division. Our mission is to drive engagement through creative visual content creation and promotion of the Bits of Good brand. </p>",
+              "inlineHtml": "Brand is a special part of BoG&#39;s division. Our mission is to drive engagement through creative visual content creation and promotion of the Bits of Good brand. "
+          },
+          "image": {
+              "src": "//images.ctfassets.net/zifivti966xh/2fahxLC5NpBtUmUr3eH5bK/6d4809b080631854a8b666bbd784e3cc/Brand__3_.png",
+              "alt": "Brand Figure"
+          },
+          "roles": [
+              {
+                  "name": "Brand Designer",
+                  "briefDescription": "Artisan of online presence, print, and BoG \"look and feel\"",
+                  "description": {
+                      "html": "<p>Brand designers are expected to work on marketing materials based on our brand guide and their own creativity. These inform everything from our website look and feel to print materials to social media.</p><p><strong>Responsibilities</strong></p><ul><li><p>Work collaboratively with strategists and writers to create print and digital assets.</p></li><li><p>Execute design projects in alignment with our brand standards.</p></li><li><p>Attend weekly brand committee meeting to take and give feedback.</p></li></ul><p><strong>Time commitment</strong></p><p>3-5 hours per week, including hour-long branding meetings</p><p><strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong></p>",
+                      "inlineHtml": "Brand designers are expected to work on marketing materials based on our brand guide and their own creativity. These inform everything from our website look and feel to print materials to social media.<strong>Responsibilities</strong><ul><li>Work collaboratively with strategists and writers to create print and digital assets.</li><li>Execute design projects in alignment with our brand standards.</li><li>Attend weekly brand committee meeting to take and give feedback.</li></ul><strong>Time commitment</strong>3-5 hours per week, including hour-long branding meetings<strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong>"
+                  },
+                  "applyLink": "https://forms.gle/DTviiC9Aa2FbvUMz5",
+                  "learnMoreHash": "marketing"
+              }
+          ],
+          "hash": "brand"
+      },
+      {
+          "name": "Nonprofit Partnership",
+          "briefDescription": {
+              "html": "<p>Advocates ready to connect with potential nonprofits</p>",
+              "inlineHtml": "Advocates ready to connect with potential nonprofits"
+          },
+          "description": {
+              "html": "<p>The Nonprofit Partnership committee is essential for bringing in new nonprofit projects for Bits of Good. We review nonprofit applications and meet with potential new nonprofits to discuss their product needs and develop a proposal. </p>",
+              "inlineHtml": "The Nonprofit Partnership committee is essential for bringing in new nonprofit projects for Bits of Good. We review nonprofit applications and meet with potential new nonprofits to discuss their product needs and develop a proposal. "
+          },
+          "image": {
+              "src": "//images.ctfassets.net/zifivti966xh/1xZLsAoJY6l32FY7GlvGCf/2d58374ce9f9ef35e46dfcc5ac89284e/Nonprofit.png",
+              "alt": "NPP Figure"
+          },
+          "roles": [
+              {
+                  "name": "Nonprofit Partnership Committee Member",
+                  "briefDescription": "Advocates ready to connect with potential nonprofits",
+                  "description": {
+                      "html": "<p>The Nonprofit Partnership committee is essential for bringing in new nonprofit projects for Bits of Good. They review nonprofit applications and meet with potential new nonprofits to discuss their product needs and develop a proposal. It&#39;s a great opportunity to learn about what we look for in nonprofits and how to guide a project to success.</p><p><strong>Responsibilities</strong></p><ul><li><p>Improve the framework/process of building partnerships with new nonprofits</p></li><li><p>Identify new channels to find nonprofits to partner with and help them find us</p></li><li><p>Identify and communicate with nonprofits we&#39;re considering partnerships with for the coming semester</p></li><li><p>Present potential nonprofits to the Product Decision Board to decide which projects will be taken for the following project cycle</p></li></ul><p><strong>Time Commitment</strong></p><p>4-6 hours per week, including hour-long general meetings and team meetings.</p><p><strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong></p>",
+                      "inlineHtml": "The Nonprofit Partnership committee is essential for bringing in new nonprofit projects for Bits of Good. They review nonprofit applications and meet with potential new nonprofits to discuss their product needs and develop a proposal. It&#39;s a great opportunity to learn about what we look for in nonprofits and how to guide a project to success.<strong>Responsibilities</strong><ul><li>Improve the framework/process of building partnerships with new nonprofits</li><li>Identify new channels to find nonprofits to partner with and help them find us</li><li>Identify and communicate with nonprofits we&#39;re considering partnerships with for the coming semester</li><li>Present potential nonprofits to the Product Decision Board to decide which projects will be taken for the following project cycle</li></ul><strong>Time Commitment</strong>4-6 hours per week, including hour-long general meetings and team meetings.<strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong>"
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSfzCeu8cImYdxtjPRk0LoJWwVhUlcWOENCdVpHNIs7Fl4TTFw/viewform?usp=sf_link",
+                  "learnMoreHash": "npp"
+              }
+          ],
+          "hash": "npp"
+      }
+  ]
+}
