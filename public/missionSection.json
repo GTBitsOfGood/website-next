@@ -1,0 +1,46 @@
+{
+  "data": [
+      {
+          "key": "connecting-section",
+          "heading": "Connecting with Atlanta",
+          "description": {
+              "html": "<p>By building relationships with local nonprofits, we are redefining social good for students who want to make a meaningful impact with their technical background.</p>",
+              "inlineHtml": "By building relationships with local nonprofits, we are redefining social good for students who want to make a meaningful impact with their technical background."
+          },
+          "landingImage": {
+              "src": "//images.ctfassets.net/zifivti966xh/HSnb7q1F4zKRfLHzJKZRq/ce8dafecbccd5d0814811f38ee82d152/SpotIllo_Operations.svg",
+              "alt": "Person holding shapes together, simplified"
+          },
+          "landingImageBacking": {
+              "src": "//images.ctfassets.net/zifivti966xh/4MPRaOBi5OoWXuMcXQh6Bs/e15d65de79d1b6ece20f401b7d594510/connecting-artwork-back_1.svg",
+              "alt": "Network of circles"
+          },
+          "aboutUsImage": {
+              "src": "//images.ctfassets.net/zifivti966xh/OyjyXdCRCHxYm1qjjSAKz/88864c9aed477d390c859a9980ed8017/about-us-connecting.svg",
+              "alt": "Network of people"
+          },
+          "orderingIndex": 1
+      },
+      {
+          "key": "building-section",
+          "heading": "Building powerful web apps",
+          "description": {
+              "html": "<p>Our organization develops real-world applications and promotes learning and mentorship at all levels, both from team members of diverse skillsets and from the close-knit, passionate club community.</p>",
+              "inlineHtml": "Our organization develops real-world applications and promotes learning and mentorship at all levels, both from team members of diverse skillsets and from the close-knit, passionate club community."
+          },
+          "landingImage": {
+              "src": "//images.ctfassets.net/zifivti966xh/7ulPoiUCsopI4YRaHd5R2e/a05dd485388971300f0c185e82b8c9a2/product.svg",
+              "alt": "person placing triangle onto pyramid of blocks, simplified"
+          },
+          "landingImageBacking": {
+              "src": "//images.ctfassets.net/zifivti966xh/Z8SiTApEGNl3OoJWzzbZs/c0200da9a4f1af562c9894775c4e7e17/building-artwork-back.svg",
+              "alt": "Computer chip background"
+          },
+          "aboutUsImage": {
+              "src": "//images.ctfassets.net/zifivti966xh/6MqHIPB8RXVrkHMsFOh9oV/eb9fdd1ff992843ad2c294a3f0af3b0f/website.svg",
+              "alt": "UI mockups on multiple displays"
+          },
+          "orderingIndex": 2
+      }
+  ]
+}
