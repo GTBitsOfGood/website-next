@@ -1,0 +1,16 @@
+{
+  "data": [
+      {
+          "heading": "About Us",
+          "description": {
+              "html": "<p>The GT Bits of Good team connects our students with local nonprofits by building powerful web apps.</p>",
+              "inlineHtml": "The GT Bits of Good team connects our students with local nonprofits by building powerful web apps."
+          },
+          "cta": "Tell me more",
+          "image": {
+              "src": "//images.ctfassets.net/zifivti966xh/d5CHX4nUiI03VJiZ8gnDT/346c5b2f3a18de550684be1f287d7574/marketing.svg",
+              "alt": "Woman sprinkling sparkles onto a shape"
+          }
+      }
+  ]
+}

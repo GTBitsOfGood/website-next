@@ -1,0 +1,28 @@
+{
+  "data": [
+      {
+          "desktopBannerImages": [
+              {
+                  "src": "//images.ctfassets.net/zifivti966xh/4tEmU1xkkf5s1ykyNiRbDO/504184b10d7cb287a4e2cbe923fba3f0/banner-left.svg",
+                  "alt": "Left banner image - people standing on blocks"
+              },
+              {
+                  "src": "//images.ctfassets.net/zifivti966xh/1Yw9K4WipH4zLzLF4CXOlZ/6466c18be13fbb39c3432297db8e2913/banner-right.svg",
+                  "alt": "Right banner image - people standing on blocks"
+              }
+          ],
+          "mobileBannerImages": [
+              {
+                  "src": "//images.ctfassets.net/zifivti966xh/2gM3Dj7cBcwEJmI0ayUZAS/b789abe72cd22683328e886a56b02acd/banner-top.svg",
+                  "alt": "Top banner image - people standing on blocks"
+              },
+              {
+                  "src": "//images.ctfassets.net/zifivti966xh/6l3ZmOORXzDasASgw2RtZU/4d8c139dbeed01603332a3c2b4b39cb7/banner-bottom.svg",
+                  "alt": "Bottom banner image - people standing on blocks"
+              }
+          ],
+          "title": "Roles",
+          "tagline": "Make it happen with us."
+      }
+  ]
+}
