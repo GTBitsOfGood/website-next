@@ -14,8 +14,8 @@ const RolesSection = ({ roleDepartments }: RolesSectionProps) => {
                     non-profits and democratizing technology for social good.
                 </p>
             <section className={styles.section}>
-                {roleDepartments.map((roleDepartment) => (
-                    <Role name={roleDepartment.name} image={roleDepartment.image} briefDescription={roleDepartment.briefDescription} />
+                {roleDepartments.map((roleDepartment, index) => (
+                    <Role key={index} name={roleDepartment.name} image={roleDepartment.image} briefDescription={roleDepartment.briefDescription} />
                 ))}
             </section>
         </div>

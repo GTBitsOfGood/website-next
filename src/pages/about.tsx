@@ -1,6 +1,7 @@
 import {useEffect, useState} from 'react';
+import { MissionCard, Milestone, RoleDepartment, HeaderData } from '@/types';
+import PageHeader from '@/components/PageHeader';
 import MissionSection from '@/components/MissionSection';
-import { MissionCard, Milestone, RoleDepartment } from '@/types';
 import Slogan from '@/components/Slogan';
 import MilestonesSection from '@/components/MilestonesSection';
 import RolesSection from '@/components/RolesSection';
@@ -9,13 +10,27 @@ export default function About() {
     const [missionCards, setMissionCards] = useState<MissionCard[]>([]);
     const [milestones, setMilestones] = useState<Milestone[]>([]);
     const [roleDepartments, setRoleDepartments] = useState<RoleDepartment[]>([]);
+    const [aboutData, setAboutData] = useState<HeaderData[]>([]);
+
+    useEffect(() => {
+    
+        fetch("/aboutUsHeader.json")
+        .then((response) => response.json())
+        .then((jsonData) => {
+            setAboutData(jsonData.data);
+        })
+        .catch((error) => {
+            console.error('Error fetching data: ', error);
+        });
+        
+    
+    }, []);
 
     useEffect(() => {
     
         fetch("/missionSection.json")
         .then((response) => response.json())
         .then((jsonData) => {
-            console.log(jsonData)
             setMissionCards(jsonData.data);
         })
         .catch((error) => {
@@ -30,7 +45,6 @@ export default function About() {
         fetch("/milestone.json")
         .then((response) => response.json())
         .then((jsonData) => {
-            console.log(jsonData)
             setMilestones(jsonData.data);
         })
         .catch((error) => {
@@ -45,7 +59,6 @@ export default function About() {
         fetch("/roleDepartment.json")
         .then((response) => response.json())
         .then((jsonData) => {
-            console.log(jsonData)
             setRoleDepartments(jsonData.data);
         })
         .catch((error) => {
@@ -57,6 +70,7 @@ export default function About() {
 
     return (
         <div>
+            <PageHeader ctaScrollToId='mission-section' headerData={aboutData[0]}/>
             <MissionSection id={"mission-section"} missionCards={missionCards}/>
             <Slogan/>
             <MilestonesSection milestones={milestones} />
@@ -64,5 +78,4 @@ export default function About() {
         </div>
     ); 
     
-
 }

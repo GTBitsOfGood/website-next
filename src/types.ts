@@ -1,3 +1,16 @@
+export interface HeaderData {
+    heading: string,
+    description: {
+        html: string,
+        inlineHtml: string,
+    },
+    cta: string,
+    image: {
+        src: string,
+        alt: string,
+    }
+}
+
 export interface MissionCard {
     key: string,
     heading: string,
