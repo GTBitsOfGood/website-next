@@ -5,6 +5,7 @@ import MissionSection from '@/components/MissionSection';
 import Slogan from '@/components/Slogan';
 import MilestonesSection from '@/components/MilestonesSection';
 import RolesSection from '@/components/RolesSection';
+import Layout from '@/components/layout/layout';
 
 export default function About() {
     const [missionCards, setMissionCards] = useState<MissionCard[]>([]);
@@ -69,13 +70,15 @@ export default function About() {
     }, []);
 
     return (
-        <div>
-            <PageHeader ctaScrollToId='mission-section' headerData={aboutData[0]}/>
-            <MissionSection id={"mission-section"} missionCards={missionCards}/>
-            <Slogan/>
-            <MilestonesSection milestones={milestones} />
-            <RolesSection roleDepartments={roleDepartments} />
-        </div>
+        <Layout>
+            <div>
+                <PageHeader ctaScrollToId='mission-section' headerData={aboutData[0]}/>
+                <MissionSection id={"mission-section"} missionCards={missionCards}/>
+                <Slogan/>
+                <MilestonesSection milestones={milestones} />
+                <RolesSection roleDepartments={roleDepartments} />
+            </div>
+        </Layout>
     ); 
     
 }
