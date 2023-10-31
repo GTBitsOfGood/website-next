@@ -1,0 +1,43 @@
+.missionh2 {
+    text-align: center;
+    grid-column: 1 / -1;
+}
+
+.missionsection {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(32rem, 1fr));
+    justify-items: center;
+    column-gap: 10rem;
+    row-gap: 5rem;
+    padding: 3rem;
+
+    display: -ms-grid;
+    -ms-grid-columns: minmax(38rem, 1fr) minmax(38rem, 1fr);
+}
+
+.mission {
+    max-width: 50rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.missionimg {
+    width: 20rem;
+}
+
+.missionh3 {
+    text-align: center;
+    color: var(--primary-yellow);
+}
+
+.missionp {
+    margin: 0;
+    font-size: var(--body-xl);
+}
+
+@media (max-width: 50rem) {
+    .missionsection {
+        -ms-grid-columns: 1fr;
+    }
+}

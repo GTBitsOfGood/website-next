@@ -1,0 +1,155 @@
+.h2 {
+    margin-bottom: 80px;
+    text-align: center;
+}
+.section {
+    padding: 3rem;
+    padding-bottom: 5rem;
+}
+  
+.overflowContainerColoredBacking {
+    overflow: hidden;
+    margin-bottom: 100px;
+    background: var(--section-color-pink);
+}
+.scrollcontainer {
+    --offset-index: 0;
+    --milestone-width: 30rem;
+    display: flex;
+    height: 50rem;
+    content: '';
+    max-height: calc(100vh - var(--nav-height));
+    overflow-x: visible;
+    position: relative;
+    background: url('/milestone-dotted-line.svg');
+    background-size: 128rem 100%;
+    background-repeat: repeat-x;
+    transition: left 0.3s;
+    margin-top: 5rem;
+}
+  
+.milestone {
+    flex: 1;
+    min-width: var(--milestone-width);
+    max-width: 100%;
+    align-self: center;
+    display: flex;
+    justify-content: center;
+    z-index: 1;
+}
+  
+.milestonepositionlow {
+    align-self: flex-end;
+    flex: 1;
+    min-width: var(--milestone-width);
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    z-index: 1;
+}
+
+.milestonepositionhigh {
+    align-self: flex-start;
+    flex: 1;
+    min-width: var(--milestone-width);
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    z-index: 1;
+}
+
+.milestonecontent {
+    background-color: var(--section-color-pink);
+    width: 50%;
+    transition-property: box-shadow, transform, background-color;
+    transition-duration: 0.3s;
+}
+  
+.milestoneselected {
+    background-color: var(--backing-pink);
+    width: 100%;
+    box-shadow: var(--shadow-hover);
+    border-radius: 1rem;
+    padding: 2rem;
+    transform: scale(1.1);
+    flex: 1;
+    min-width: var(--milestone-width);
+    max-width: 100%;
+    align-self: center;
+    display: flex;
+    justify-content: center;
+    z-index: 1;
+    transition-property: box-shadow, transform, background-color;
+    transition-duration: 0.3s;
+}
+
+.h3 {
+    font-size: var(--body-xl);
+    text-align: center;
+}
+
+.h4 {
+    text-align: center;
+    color: white;
+    display: flex;
+    font-size: var(--body-large);
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+}
+
+.timebanner {
+    font-family: var(--header-font);
+    padding: 0.5rem 1rem;
+    background-color: var(--primary);
+}
+
+.h4yellowtimebanner {
+    background-color: var(--primary-yellow);
+    font-family: var(--header-font);
+    padding: 0.5rem 1rem;
+}
+
+.h4yellow {
+    text-align: center;
+    color: white;
+    display: flex;
+    font-size: var(--body-large);
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+}
+
+.h4red {
+    text-align: center;
+    color: white;
+    display: flex;
+    font-size: var(--body-large);
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+}
+
+.h4redtimebanner {
+    background-color: var(--primary-red);
+    font-family: var(--header-font);
+    padding: 0.5rem 1rem;
+}
+
+.h4yellow > :global(svg) {
+    fill: var(--primary-yellow);
+}
+
+.h4red > :global(svg) {
+    fill: var(--primary-red);
+}
+
+.headingcontainer {
+    display: flex;
+    justify-content: center;
+}
+
+.button >:global(svg) {
+    width: 50px;
+    height: 50px;
+}
