@@ -35,11 +35,11 @@ const RoleSection = ({ name, description, hash, image, roles, rightAlign, select
   return (
     <section className={rightAlign ? classes.sectionRight : classes.section} id={hash}>
       <div className={rightAlign ? classes.innerRight : classes.inner}>
-        <div className={classes.imageContainer}>
+        <div className={rightAlign? classes.imageContainerRight : classes.imageContainer}>
           <img className={classes.image} src={image.src} alt={image.alt} />
         </div>
         <div className={classes.contentContainer}>
-          <div className="header-container">
+          <div className={classes.headercontainer}>
             <h2 className={classes.h2}>{name}</h2>
           </div>
           <p className={classes.description} dangerouslySetInnerHTML={{ __html: description.inlineHtml }} />

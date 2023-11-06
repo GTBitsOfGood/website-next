@@ -181,6 +181,9 @@
         top: 25%;
         left: 20%;
       }
+      .linksContainer{
+        margin: 0;
+      }
   }
 
   @media (max-width: 900px) {
@@ -191,10 +194,10 @@
       .bannerP {
           font-size: 18px;
       }
-          .headcontainer {
-              top: 38%;
-              left: 30%;
-          }
+      .headcontainer {
+        top: 38%;
+        left: 30%;
+      }
   }
   @media (max-width: 800px) {
       .heading {
@@ -209,11 +212,11 @@
           margin: 20px;
       }
 
-      .deptlinksbutton {
+      .deptlinksimg {
           height: 100px;
       }
 
-      .dept-links button>p {
+      .deptlinksp {
           font-size: 18px;
       }
   }

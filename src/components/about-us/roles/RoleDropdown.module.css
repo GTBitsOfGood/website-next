@@ -53,6 +53,7 @@
 .description {
     margin-bottom: 50px;
     color: #333;
+    
 }
 
 .h3 {
@@ -64,6 +65,7 @@
 .description {
     margin-bottom: 50px;
     color: #333;
+    transition: all .3s ease;
 }
 
 .applylink:hover {
