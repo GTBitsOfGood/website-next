@@ -1,26 +1,27 @@
 import { useState } from 'react';
 import { IoIosArrowForward } from "react-icons/io";
+import classes from './RoleDropdown.module.css'
 
 const RoleDropdown = ({ name, description, applicationOpen, applyLink }: {name:any, description:any, applicationOpen:any, applyLink:any}) => {
   const [open, setOpen] = useState(false);
 
   return (
     <section>
-      <div className="dropdown-banner">
-        <button onClick={() => setOpen(!open)}>
-          <div className={`icon ${open ? 'open' : ''}`}>
+      <div className={classes.dropdownbanner}>
+        <button className={classes.dropdownbannerbutton} onClick={() => setOpen(!open)}>
+          <div className={open? classes.open : classes.icon}>
             <IoIosArrowForward />
           </div>
-          <h3>{name}</h3>
+          <h3 className={classes.h3}>{name}</h3>
         </button>
         {applicationOpen && (
-          <a className="apply-link" href={applyLink}>
+          <a className={classes.applylink} href={applyLink}>
             Apply Now
           </a>
         )}
       </div>
       {open && (
-        <div className="description">
+        <div className={classes.description}>
           <div dangerouslySetInnerHTML={{ __html: description.html }} />
         </div>
       )}

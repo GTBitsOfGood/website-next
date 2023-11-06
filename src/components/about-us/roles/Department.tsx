@@ -1,7 +1,9 @@
 import { useEffect, useState } from 'react';
 import RoleDropdown from './RoleDropdown'; // Update the import path according to your project structure
+import classes from './Department.module.css'
 
 const RoleSection = ({ name, description, hash, image, roles, rightAlign, selectedRole }) => {
+  console.log(rightAlign, hash)
   const [recruitmentCycles, setrecruitmentCycles] = useState([]);
   useEffect(() => {
     fetch('../../../../public/recruitmentCycle.json') // Path to your JSON file
@@ -31,16 +33,16 @@ const RoleSection = ({ name, description, hash, image, roles, rightAlign, select
   }
 
   return (
-    <section className={rightAlign ? 'rightAlign' : ''} id={hash}>
-      <div className="inner">
-        <div className="image-container">
-          <img src={image.src} alt={image.alt} />
+    <section className={rightAlign ? classes.sectionRight : classes.section} id={hash}>
+      <div className={rightAlign ? classes.innerRight : classes.inner}>
+        <div className={classes.imageContainer}>
+          <img className={classes.image} src={image.src} alt={image.alt} />
         </div>
-        <div className="content-container">
+        <div className={classes.contentContainer}>
           <div className="header-container">
-            <h2>{name}</h2>
+            <h2 className={classes.h2}>{name}</h2>
           </div>
-          <p className="description" dangerouslySetInnerHTML={{ __html: description.inlineHtml }} />
+          <p className={classes.description} dangerouslySetInnerHTML={{ __html: description.inlineHtml }} />
           {roles.map(role => (
             <RoleDropdown key={role.name} {...role} open={selectedRole === role.name} />
           ))}

@@ -97,7 +97,12 @@ const RolesPage = () => {
           ))}
         </div>
       </section>
+      
     }
+    {departments && departments.map((department, index) => (
+        <Department rightAlign={index % 2 === 1} key={department.hash} {...department} />
+      ))}
+    
       
     </div>
   );
