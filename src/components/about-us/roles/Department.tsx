@@ -1,8 +1,23 @@
-import React from 'react';
+import { useEffect, useState } from 'react';
 import RoleDropdown from './RoleDropdown'; // Update the import path according to your project structure
-import recruitmentCycles from '@contentful-entries/recruitmentCycle';
 
 const RoleSection = ({ name, description, hash, image, roles, rightAlign, selectedRole }) => {
+  const [recruitmentCycles, setrecruitmentCycles] = useState([]);
+  useEffect(() => {
+    fetch('../../../../public/recruitmentCycle.json') // Path to your JSON file
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Network response was not ok');
+          }
+          return response.json();
+        })
+        .then(jsonData => {
+          setrecruitmentCycles(jsonData.data);
+        })
+        .catch(error => {
+          console.error('Error fetching data:', error);
+        });
+  }, []);
   // Check if role applications are open in the current recruitment cycle
   const activeCycle = recruitmentCycles.find(cycle => cycle.active);
 

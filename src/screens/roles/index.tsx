@@ -1,13 +1,14 @@
 import { useState, useEffect } from 'react';
-import classes from '@/styles/role.module.css';
+import classes from './Role.module.css';
 import Department from '../../components/about-us/roles/Department';
-import departments from '@contentful-entries/roleDepartment';
-import headerContent from '@contentful-entry/rolesHeader';
+// import departments from '@contentful-entries/roleDepartment';
+// import headerContent from '@contentful-entry/rolesHeader';
 
 const RolesPage = () => {
-  const [data, setData] = useState([]);
+  const [departments, setdepartments] = useState(null);
+  const [headerContent, setheaderContent] = useState(null);
   useEffect(() => {
-    fetch('/data.json') // Path to your JSON file
+    fetch('/roleDepartment.json') // Path to your JSON file
         .then(response => {
           if (!response.ok) {
             throw new Error('Network response was not ok');
@@ -15,7 +16,23 @@ const RolesPage = () => {
           return response.json();
         })
         .then(jsonData => {
-          setData(jsonData);
+          setdepartments(jsonData.data);
+        })
+        .catch(error => {
+          console.error('Error fetching data:', error);
+        });
+
+        fetch('/rolesHeader.json') // Path to your JSON file
+        .then(response => {
+          if (!response.ok) {
+            throw new Error('Network response was not ok');
+          }
+          return response.json();
+        })
+        .then(jsonData => {
+          setheaderContent(jsonData.data);
+          console.log(jsonData.data)
+          console.log(headerContent)
         })
         .catch(error => {
           console.error('Error fetching data:', error);
@@ -38,42 +55,50 @@ const RolesPage = () => {
 
   return (
     <div className={classes.heading}>
-      <section className={classes.banner}>
-        <h1>{headerContent.title}</h1>
-        <p>{headerContent.tagline}</p>
+      {headerContent && 
+        <section className={classes.banner}>
+          <div className={classes.headcontainer}>
+            <h1 className={classes.h1}>{headerContent[0].title}</h1>
+            <p className={classes.bannerP}>{headerContent[0].tagline}</p>
+          </div>
+        
 
         <img
-          className="desktop left"
-          src={headerContent.desktopBannerImages[0].src}
-          alt={headerContent.desktopBannerImages[0].alt}
+          className={classes.imageLeft}
+          src={headerContent[0].desktopBannerImages[0].src}
+          alt={headerContent[0].desktopBannerImages[0].alt}
         />
         <img
-          className="mobile left"
-          src={headerContent.mobileBannerImages[0].src}
-          alt={headerContent.mobileBannerImages[0].alt}
+          className={classes.mobileimageLeft}
+          src={headerContent[0].mobileBannerImages[0].src}
+          alt={headerContent[0].mobileBannerImages[0].alt}
         />
         <img
-          className="desktop right"
-          src={headerContent.desktopBannerImages[1].src}
-          alt={headerContent.desktopBannerImages[1].alt}
+          className={classes.imageRight}
+          src={headerContent[0].desktopBannerImages[1].src}
+          alt={headerContent[0].desktopBannerImages[1].alt}
         />
         <img
-          className="mobile right"
-          src={headerContent.mobileBannerImages[1].src}
-          alt={headerContent.mobileBannerImages[1].alt}
+          className={classes.mobileimageRight}
+          src={headerContent[0].mobileBannerImages[1].src}
+          alt={headerContent[0].mobileBannerImages[1].alt}
         />
       </section>
-      <section className="dept-links-container">
-        <p>We offer {departments.length} unique roles</p>
-        <div className="dept-links">
+    }
+    {departments && 
+      <section className={classes.linksContainer}>
+        <p className={classes.linksContainerP}>We offer {departments.length} unique roles</p>
+        <div className={classes.deptlinks}>
           {departments.map(({ image, name, hash }) => (
-            <button key={hash} onClick={() => scrollToDepartment(hash)}>
-              <img src={image.src} alt={image.alt} />
-              <p>{name}</p>
+            <button className= {classes.deptlinksbutton} key={hash} onClick={() => scrollToDepartment(hash)}>
+              <img className={classes.deptlinksimg} src={image.src} alt={image.alt} />
+              <p className={classes.deptlinksp}>{name}</p>
             </button>
           ))}
         </div>
       </section>
+    }
+      
     </div>
   );
 };
