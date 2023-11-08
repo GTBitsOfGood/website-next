@@ -1,8 +1,9 @@
-import Footer from './Footer/Footer';
+import Footer from "./Footer/Footer";
+import Nav from "./Nav/Nav";
 
-import { useEffect, useState } from 'react';
+import { useEffect, useState } from "react";
 
-export default function Layout({ children, segment } : any) {
+export default function Layout({ children, segment }: any) {
   const [scrolled, setScrolled] = useState(false);
 
   const onScroll = () => {
@@ -14,14 +15,15 @@ export default function Layout({ children, segment } : any) {
   };
 
   useEffect(() => {
-    window.addEventListener('scroll', onScroll);
-    return () => window.removeEventListener('scroll', onScroll);
+    window.addEventListener("scroll", onScroll);
+    return () => window.removeEventListener("scroll", onScroll);
   }, []);
 
   return (
     <>
+      <Nav />
       <main>{children}</main>
-      <Footer noTopMargin={segment === 'join'} />
+      <Footer noTopMargin={segment === "join"} />
     </>
   );
 }

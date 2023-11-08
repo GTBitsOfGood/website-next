@@ -21,7 +21,7 @@ export default function Footer({ noTopMargin = false }) {
             links: data.data[0][`linksColumn${columnNum}`],
           }));
 
-        console.log(tempColumns)
+        console.log(tempColumns);
 
         setColumns(tempColumns);
       });
@@ -29,7 +29,8 @@ export default function Footer({ noTopMargin = false }) {
   }, []);
 
   return (
-    content && columns && (
+    content &&
+    columns && (
       <footer
         id="footer"
         className={noTopMargin ? styles.noTopMargin : styles.footer}
@@ -38,7 +39,9 @@ export default function Footer({ noTopMargin = false }) {
           <div className={styles.ctaContainer}>
             <h3 className={styles.h3}>{content.ctaHeader}</h3>
             <p className={styles.footerCta}>
-              <a href={content.cta.url} className={styles.link}>{content.cta.text}</a>
+              <a href={content.cta.url} className={styles.link}>
+                {content.cta.text}
+              </a>
             </p>
           </div>
 
@@ -48,7 +51,9 @@ export default function Footer({ noTopMargin = false }) {
                 <h3 className={styles.columnHeader}>{column.title}</h3>
                 {column.links.map((link: any) => (
                   <li key={link.url} className={styles.li}>
-                    <a href={link.url} className={styles.link}>{link.text}</a>
+                    <a href={link.url} className={styles.link}>
+                      {link.text}
+                    </a>
                   </li>
                 ))}
               </ul>
