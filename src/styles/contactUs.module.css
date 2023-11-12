@@ -1,0 +1,117 @@
+.container {
+    background-color: #ffffff;
+    display: grid;
+    padding: 3rem;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem 5rem;
+}
+
+.horizontal-div {
+    width: 200px;
+    height: 100px;
+    background-color: #3498db;
+    color: #fff;
+    text-align: center;
+    line-height: 100px;
+    margin: 0 10px; /* Add some space between the two divs */
+}
+
+.image {
+    max-width: 550px;
+}
+
+.h1 {
+    grid-area: 'heading';
+    margin-top: 3rem;
+    margin-bottom: 0;
+    color: black;
+    font-size: 60px;
+}
+
+
+.infotext {
+    font-size: 1.5rem;
+    margin: 0;
+    margin-bottom: 2rem;
+    color: #333;
+    margin-top: 1rem;
+}
+
+.addressHeading {
+    grid-area: 'heading';
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    color: black;
+    font-size: 30px
+}
+
+.address {
+    font-size: 1.5rem;
+    margin: 0;
+    color: #333;
+}
+
+.form {
+    grid-area: 'form';
+}
+
+.highlight_email {
+    color: #cf6b32;
+}
+
+.label {
+    display: block;
+    margin-bottom: 1.5rem;
+    color: #333;
+    font-size: 1.5rem;
+}
+
+.button {
+    font-size: inherit;
+    background: #F57C6B;
+    padding: 1.5rem 3rem;
+    color: white;
+    border-radius: 1rem;
+    transition-duration: 0.2s;
+    margin-top: 0.5rem;
+    font-size: 1.5rem;
+}
+
+.button:hover {
+    box-shadow: var(--shadow-hover);
+    transform: translateY(-5px);
+  }
+
+.textarea {
+    resize: none;
+    width: 75%;
+    margin-bottom: 4rem;
+    padding-bottom: 1rem;
+    background-color: #ffffff;
+    border: none;
+    color: #333;
+    border-bottom: 1px solid gray;
+    font-size: 1.5rem;
+}
+
+.input {
+    background-color: #ffffff; 
+    color: #333;
+    border: none;
+    outline: none;
+    border-bottom: solid gray;
+    margin-bottom: 2rem;
+    width: 75%;
+    font-size: 1.5rem;
+}
+
+.input:hover {
+    background-color: #ffffff;
+    color: #333;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid gray;
+    margin-bottom: 2rem;
+    width: 75%;
+    border: #F57C6B
+}

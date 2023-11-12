@@ -1,0 +1,53 @@
+/* styles/ContactUs.module.css */
+
+.container {
+    background-color: #ffffff;
+    display: grid;
+    padding: 3rem;
+    grid-template-columns: 1fr 1fr;
+    gap: 3rem 5rem;
+    height: 170%
+}
+
+.h1 {
+    grid-area: 'heading';
+    margin-top: 3rem;
+    margin-bottom: 0;
+    color: black;
+    font-size: 70px;
+}
+
+.p {
+    font-size: 2rem;
+    margin: 0;
+    margin-bottom: 2rem;
+    color: #333;
+    margin-top: 2rem;
+}
+
+.newsletterp {
+    font-size: 1.5rem;
+    margin: 0;
+    margin-bottom: 2rem;
+    color: #333;
+    margin-top: 2rem;
+}
+  
+
+.imageSection {
+    display: flex;
+    justify-content: flex-end; /* Align the image to the right */
+    align-items: center;
+}
+  
+.button {
+    font-size: 0.5rem;
+    background: #ffffff;
+    padding: 1.5rem 3rem;
+    color: #333;
+    border-radius: 0.3rem;
+    transition-duration: 0.2s;
+    margin-top: 0.5rem;
+    font-size: 1.5rem;
+    border: 1px solid #F57C6B
+}
