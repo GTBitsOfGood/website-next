@@ -4,6 +4,7 @@
 import Project from "@/components/Project";
 import styles from "../styles/Projects.module.css";
 import React, { useEffect, useState } from "react";
+import Layout from "@/components/layout/layout";
 // import PageHeader from "@/components/PageHeader";
 // import Navbar from "@/components/nav";
 
@@ -38,35 +39,41 @@ const Projects = () => {
   }, []);
 
   return (
-    <div>
-      {/* <PageHeader {...content} /> */}
-      <section>
-        <h2>Current Projects</h2>
-        <div className={styles.projectsContainer}>
-          {currProjects.map(({ name, briefDescription, key, thumbnail } : any) => (
-            <Project
-              key={key}
-              name={name}
-              link={"/projects/" + key}
-              image={thumbnail}
-              briefDescription={briefDescription}
-            />
-          ))}
-        </div>
-        <h2>Past Projects</h2>
-        <div className={styles.projectsContainer}>
-          {pastProjects.map(({ name, briefDescription, key, thumbnail } : any) => (
-            <Project
-              key={key}
-              name={name}
-              link={"/projects/" + key}
-              image={thumbnail}
-              briefDescription={briefDescription}
-            />
-          ))}
-        </div>
-      </section>
-    </div>
+    <Layout>
+      <div>
+        {/* <PageHeader {...content} /> */}
+        <section>
+          <h2>Current Projects</h2>
+          <div className={styles.projectsContainer}>
+            {currProjects.map(
+              ({ name, briefDescription, key, thumbnail }: any) => (
+                <Project
+                  key={key}
+                  name={name}
+                  link={"/projects/" + key}
+                  image={thumbnail}
+                  briefDescription={briefDescription}
+                />
+              )
+            )}
+          </div>
+          <h2>Past Projects</h2>
+          <div className={styles.projectsContainer}>
+            {pastProjects.map(
+              ({ name, briefDescription, key, thumbnail }: any) => (
+                <Project
+                  key={key}
+                  name={name}
+                  link={"/projects/" + key}
+                  image={thumbnail}
+                  briefDescription={briefDescription}
+                />
+              )
+            )}
+          </div>
+        </section>
+      </div>
+    </Layout>
   );
 };
 
