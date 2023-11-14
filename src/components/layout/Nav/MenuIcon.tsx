@@ -1,6 +1,6 @@
 import React from "react";
 
-const MenuIcon = ({ menuToggled }) => {
+function MenuIcon({ menuToggled }: { menuToggled: boolean }) {
   const containerClasses = ["container"];
 
   if (menuToggled) {
@@ -14,6 +14,6 @@ const MenuIcon = ({ menuToggled }) => {
       <div className="stripe-bottom" />
     </div>
   );
-};
+}
 
 export default MenuIcon;

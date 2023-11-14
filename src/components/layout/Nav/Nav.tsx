@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useRouter } from "next/router";
-import GetInvolvedBtn from "./GetInvolvedBtn"; // Assuming you've converted this to React
-import MenuIcon from "./MenuIcon"; // Assuming you've converted this to React
+import GetInvolvedBtn from "./GetInvolvedBtn";
+import MenuIcon from "./MenuIcon"; 
 import styles from "./Nav.module.css";
 // ... other imports ...
 
