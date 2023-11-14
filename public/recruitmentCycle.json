@@ -1,5 +1,172 @@
 {
   "data": [
+    {
+        "label": "Spring 2024 Recruitment (PMEMDC)",
+        "term": "Spring 2024",
+        "announcement": {
+            "html": "<p>Our applications for Spring 2024 for Developer Bootcamp Instructor, Engineering Manager, Engineering Operations, Brand Designer, Nonprofit Partnership Coordinator, Brand Marketer, Content Writer, Operations and Community Coordinator, Designer, Design Operations, Product Manager, and Design Bootcamp Instructor are now open! Make sure to follow our Instagram @gtbitsofgood to get all recruitment updates!</p>",
+            "inlineHtml": "Our applications for Spring 2024 for Developer Bootcamp Instructor, Engineering Manager, Engineering Operations, Brand Designer, Nonprofit Partnership Coordinator, Brand Marketer, Content Writer, Operations and Community Coordinator, Designer, Design Operations, Product Manager, and Design Bootcamp Instructor are now open! Make sure to follow our Instagram @gtbitsofgood to get all recruitment updates!"
+        },
+        "tagline": {
+            "html": "<p>For any questions please refer to our <a href=\"https://gtbitsofgood.notion.site/Recruitment-Membership-FAQ-d4d39bec35cc4897b49312149fe9bd0a\">FAQ Page</a> &amp; our <a href=\"https://gtbitsofgood.notion.site/VIP-b0abbc55ba424ddea5dd71cd8ad3151c\">VIP Information Page</a>.</p>",
+            "inlineHtml": "For any questions please refer to our <a href=\"https://gtbitsofgood.notion.site/Recruitment-Membership-FAQ-d4d39bec35cc4897b49312149fe9bd0a\">FAQ Page</a> &amp; our <a href=\"https://gtbitsofgood.notion.site/VIP-b0abbc55ba424ddea5dd71cd8ad3151c\">VIP Information Page</a>."
+        },
+        "openRoles": [
+            {
+                "name": "Brand Designer",
+                "briefDescription": "Artisan of online presence, print, and BoG \"look and feel\"",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/fp3pMBw1n74PwRqC8",
+                "learnMoreHash": "marketing"
+            },
+            {
+                "name": "Nonprofit Partnership Committee Member",
+                "briefDescription": "Advocates ready to connect with potential nonprofits",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/bPKBjmEsqc5wJ1bt5",
+                "learnMoreHash": "npp"
+            },
+            {
+                "name": "Operations and Community Coordinator",
+                "briefDescription": "Coordinator of club initiatives, logistics, and more",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/RCUuUSi79jkby4pz6",
+                "learnMoreHash": "operations"
+            },
+            {
+                "name": "Product Designer",
+                "briefDescription": "Master of product mockups and UX",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/ivpXYGCEDLsw1nVs8",
+                "learnMoreHash": "design"
+            },
+            {
+                "name": "Design Bootcamp Instructor",
+                "briefDescription": "Leaders who develop future Bits of Good designers",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/ivpXYGCEDLsw1nVs8",
+                "learnMoreHash": "design"
+            },
+            {
+                "name": "Design Operations",
+                "briefDescription": "Helps build design team processes at scale",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/ivpXYGCEDLsw1nVs8",
+                "learnMoreHash": "design"
+            },
+            {
+                "name": "Product Manager",
+                "briefDescription": "The frontline client communicator and project team lead",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/CRsR7dHnCh2cjp8z6",
+                "learnMoreHash": "product"
+            },
+            {
+                "name": "Engineering Manager",
+                "briefDescription": "Arbiter of the dev roadmap and GitHub guru",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/n2K2YPQN2vpGGoQ5A",
+                "learnMoreHash": "engineering"
+            },
+            {
+                "name": "Engineering Operations",
+                "briefDescription": "Helps build engineering team processes at scale",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/4tbZRN1RAxJqaxX99",
+                "learnMoreHash": "engineering"
+            },
+            {
+                "name": "Developer Bootcamp Instructor",
+                "briefDescription": "Instructors to teach basics of React and Express",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/3Pu26vVv6yFPtxgG6",
+                "learnMoreHash": "engineering"
+            },
+            {
+                "name": "Content Writer",
+                "briefDescription": "Quick with a pen, ready to inspire others",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/ywPis5Npx8GQq1bs8",
+                "learnMoreHash": "marketing"
+            },
+            {
+                "name": "Brand Marketer",
+                "briefDescription": "Knower of all-things communication and social media",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/ywPis5Npx8GQq1bs8",
+                "learnMoreHash": "marketing"
+            }
+        ],
+        "futureRoles": [
+            {
+                "name": "Developer",
+                "briefDescription": "An experienced webdev ready to dive into our JS-heavy stack",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://recruitment.bitsofgood.org/",
+                "learnMoreHash": "engineering"
+            },
+            {
+                "name": "Developer Bootcamper",
+                "briefDescription": "Students excited to make an impact with webdev",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://recruitment.bitsofgood.org/",
+                "learnMoreHash": "engineering"
+            },
+            {
+                "name": "Design Bootcamper",
+                "briefDescription": "Students intrigued by the world of design",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/wMGii4G1wYBiVrmh7",
+                "learnMoreHash": "design"
+            }
+        ],
+        "active": true
+    },
       {
           "label": "Fall 2023 Recruitment (PMEMDC)",
           "term": "Fall 2023",
