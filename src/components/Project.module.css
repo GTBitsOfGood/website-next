@@ -1,0 +1,61 @@
+/* components/Project.module.css */
+.container {
+  width: 340px;
+  font-weight: unset;
+  display: flex;
+  flex-direction: column;
+  margin: 2vw;
+}
+
+.imgContainer {
+  width: 340px;
+  height: 243px;
+  overflow: hidden;
+}
+
+.container:hover img {
+  transform: scale(1.2);
+}
+
+.img {
+  width: inherit;
+  height: inherit;
+  transition: transform 0.2s;
+}
+
+.h3 {
+  margin-top: 20px;
+  margin-bottom: 0px;
+  font-size: var(--body-xl);
+  font-weight: 500;
+  color: black;
+}
+
+.container:hover h3 {
+  color: black;
+}
+
+.p {
+  max-width: 350px;
+  margin-bottom: 30px;
+  color: black;
+}
+
+.learnMore {
+  border-radius: 12px;
+  font-weight: normal;
+  letter-spacing: inherit;
+  text-align: center;
+  color: #333;
+  font-size: var(--body-large);
+  padding: 8px 80px;
+  border: 2px solid #333;
+  transition: background-color 0.2s, color 0.2s;
+  margin-top: auto;
+  display: block;
+}
+
+.container:hover .learnMore {
+  background-color: #333;
+  color: white;
+}
