@@ -71,7 +71,7 @@ export default function Nav() {
           </a>
         </li>
         <li className={styles.li}>
-          <GetInvolvedBtn className="get-involved-btn" small />
+          <GetInvolvedBtn small />
         </li>
         {/* </div> */}
       </ul>
