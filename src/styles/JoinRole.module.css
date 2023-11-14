@@ -1,0 +1,62 @@
+
+  .container:hover {
+    color: #333;
+  }
+
+  .container {
+    display: block;
+    margin: 40px 0;
+  }
+
+  .containerh4 {
+    margin: 0;
+  }
+
+  .containerp {
+    margin: 8px 0;
+    margin-bottom: 20px;
+  }
+
+  
+  
+  .abtnfilled {
+    background: var(--primary-red);
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-right: 10px;
+    font-weight: normal;
+    display: inline-block;
+
+    transition-property: transform, box-shadow, background-color, color;
+    transition-duration: 0.2s;
+  }
+  .abtnhollow {
+    box-sizing: border-box;
+    background: white;
+    box-shadow: inset 0px 0px 0px 2px var(--primary-red);
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-right: 10px;
+    font-weight: normal;
+    display: inline-block;
+
+    transition-property: transform, box-shadow, background-color, color;
+    transition-duration: 0.2s;
+    color: black;
+  }
+
+  
+  .abtnfilled:hover {
+    color: white;
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-hover);
+  }
+  
+  .abtnhollow:hover {
+    box-shadow: inset 0px 0px 0px 2px var(--primary-red), var(--shadow-hover);
+    transform: translateY(-5px);
+    background-color: var(--primary-red);
+    color: white;
+  }

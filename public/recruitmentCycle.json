@@ -1,0 +1,1187 @@
+{
+  "data": [
+    {
+        "label": "Spring 2024 Recruitment (PMEMDC)",
+        "term": "Spring 2024",
+        "announcement": {
+            "html": "<p>Our applications for Spring 2024 for Developer Bootcamp Instructor, Engineering Manager, Engineering Operations, Brand Designer, Nonprofit Partnership Coordinator, Brand Marketer, Content Writer, Operations and Community Coordinator, Designer, Design Operations, Product Manager, and Design Bootcamp Instructor are now open! Make sure to follow our Instagram @gtbitsofgood to get all recruitment updates!</p>",
+            "inlineHtml": "Our applications for Spring 2024 for Developer Bootcamp Instructor, Engineering Manager, Engineering Operations, Brand Designer, Nonprofit Partnership Coordinator, Brand Marketer, Content Writer, Operations and Community Coordinator, Designer, Design Operations, Product Manager, and Design Bootcamp Instructor are now open! Make sure to follow our Instagram @gtbitsofgood to get all recruitment updates!"
+        },
+        "tagline": {
+            "html": "<p>For any questions please refer to our <a href=\"https://gtbitsofgood.notion.site/Recruitment-Membership-FAQ-d4d39bec35cc4897b49312149fe9bd0a\">FAQ Page</a> &amp; our <a href=\"https://gtbitsofgood.notion.site/VIP-b0abbc55ba424ddea5dd71cd8ad3151c\">VIP Information Page</a>.</p>",
+            "inlineHtml": "For any questions please refer to our <a href=\"https://gtbitsofgood.notion.site/Recruitment-Membership-FAQ-d4d39bec35cc4897b49312149fe9bd0a\">FAQ Page</a> &amp; our <a href=\"https://gtbitsofgood.notion.site/VIP-b0abbc55ba424ddea5dd71cd8ad3151c\">VIP Information Page</a>."
+        },
+        "openRoles": [
+            {
+                "name": "Brand Designer",
+                "briefDescription": "Artisan of online presence, print, and BoG \"look and feel\"",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/fp3pMBw1n74PwRqC8",
+                "learnMoreHash": "marketing"
+            },
+            {
+                "name": "Nonprofit Partnership Committee Member",
+                "briefDescription": "Advocates ready to connect with potential nonprofits",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/bPKBjmEsqc5wJ1bt5",
+                "learnMoreHash": "npp"
+            },
+            {
+                "name": "Operations and Community Coordinator",
+                "briefDescription": "Coordinator of club initiatives, logistics, and more",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/RCUuUSi79jkby4pz6",
+                "learnMoreHash": "operations"
+            },
+            {
+                "name": "Product Designer",
+                "briefDescription": "Master of product mockups and UX",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/ivpXYGCEDLsw1nVs8",
+                "learnMoreHash": "design"
+            },
+            {
+                "name": "Design Bootcamp Instructor",
+                "briefDescription": "Leaders who develop future Bits of Good designers",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/ivpXYGCEDLsw1nVs8",
+                "learnMoreHash": "design"
+            },
+            {
+                "name": "Design Operations",
+                "briefDescription": "Helps build design team processes at scale",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/ivpXYGCEDLsw1nVs8",
+                "learnMoreHash": "design"
+            },
+            {
+                "name": "Product Manager",
+                "briefDescription": "The frontline client communicator and project team lead",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/CRsR7dHnCh2cjp8z6",
+                "learnMoreHash": "product"
+            },
+            {
+                "name": "Engineering Manager",
+                "briefDescription": "Arbiter of the dev roadmap and GitHub guru",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/n2K2YPQN2vpGGoQ5A",
+                "learnMoreHash": "engineering"
+            },
+            {
+                "name": "Engineering Operations",
+                "briefDescription": "Helps build engineering team processes at scale",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/4tbZRN1RAxJqaxX99",
+                "learnMoreHash": "engineering"
+            },
+            {
+                "name": "Developer Bootcamp Instructor",
+                "briefDescription": "Instructors to teach basics of React and Express",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/3Pu26vVv6yFPtxgG6",
+                "learnMoreHash": "engineering"
+            },
+            {
+                "name": "Content Writer",
+                "briefDescription": "Quick with a pen, ready to inspire others",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/ywPis5Npx8GQq1bs8",
+                "learnMoreHash": "marketing"
+            },
+            {
+                "name": "Brand Marketer",
+                "briefDescription": "Knower of all-things communication and social media",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/ywPis5Npx8GQq1bs8",
+                "learnMoreHash": "marketing"
+            }
+        ],
+        "futureRoles": [
+            {
+                "name": "Developer",
+                "briefDescription": "An experienced webdev ready to dive into our JS-heavy stack",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://recruitment.bitsofgood.org/",
+                "learnMoreHash": "engineering"
+            },
+            {
+                "name": "Developer Bootcamper",
+                "briefDescription": "Students excited to make an impact with webdev",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://recruitment.bitsofgood.org/",
+                "learnMoreHash": "engineering"
+            },
+            {
+                "name": "Design Bootcamper",
+                "briefDescription": "Students intrigued by the world of design",
+                "description": {
+                    "html": "",
+                    "inlineHtml": ""
+                },
+                "applyLink": "https://forms.gle/wMGii4G1wYBiVrmh7",
+                "learnMoreHash": "design"
+            }
+        ],
+        "active": true
+    },
+      {
+          "label": "Fall 2023 Recruitment (PMEMDC)",
+          "term": "Fall 2023",
+          "announcement": {
+              "html": "<p>Our applications for Fall 2023 for Developer, Developer Bootcampers and Design Bootcampers are now closed. Good news - we will be recruiting for select positions at the start of next recruiting cycle! In the meantime, follow our Instagram @gtbitsofgood to get all recruitment updates!</p><p> Make sure to follow our Instagram @gtbitsofgood to get all recruitment updates!</p>",
+              "inlineHtml": "Our applications for Fall 2023 for Developer, Developer Bootcampers and Design Bootcampers are now closed. Good news - we will be recruiting for select positions at the start of next recruiting cycle! In the meantime, follow our Instagram @gtbitsofgood to get all recruitment updates! Make sure to follow our Instagram @gtbitsofgood to get all recruitment updates!"
+          },
+          "tagline": {
+              "html": "<p>For any questions please refer to our <a href=\"https://gtbitsofgood.notion.site/Recruitment-Membership-FAQ-d4d39bec35cc4897b49312149fe9bd0a\">FAQ Page</a> &amp; our <a href=\"https://gtbitsofgood.notion.site/VIP-b0abbc55ba424ddea5dd71cd8ad3151c\">VIP Information Page</a>.</p>",
+              "inlineHtml": "For any questions please refer to our <a href=\"https://gtbitsofgood.notion.site/Recruitment-Membership-FAQ-d4d39bec35cc4897b49312149fe9bd0a\">FAQ Page</a> &amp; our <a href=\"https://gtbitsofgood.notion.site/VIP-b0abbc55ba424ddea5dd71cd8ad3151c\">VIP Information Page</a>."
+          },
+          "futureRoles": [
+              {
+                  "name": "Product Manager",
+                  "briefDescription": "The frontline client communicator and project team lead",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScr6UKj38DxHaYzoveM8vrE1FgtpZ6LpnvbZkbBcsMRyl6WIQ/viewform?usp=sf_link",
+                  "learnMoreHash": "product"
+              },
+              {
+                  "name": "Design Bootcamp Instructor",
+                  "briefDescription": "Leaders who develop future Bits of Good designers",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/rJJhKVMg25WAv2ddA",
+                  "learnMoreHash": "design"
+              },
+              {
+                  "name": "Content Writer",
+                  "briefDescription": "Quick with a pen, ready to inspire others",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/M8QT1X37rWMk2FCP6",
+                  "learnMoreHash": "marketing"
+              },
+              {
+                  "name": "Brand Marketer",
+                  "briefDescription": "Knower of all-things communication and social media",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/M8QT1X37rWMk2FCP6",
+                  "learnMoreHash": "marketing"
+              },
+              {
+                  "name": "Operations and Community Coordinator",
+                  "briefDescription": "Coordinator of club initiatives, logistics, and more",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSd5mo_fTie5Dx3Mm4OsLj0ddWQ0FCj0LBytH9nEdT7R_Z8Arg/viewform?usp=sf_link",
+                  "learnMoreHash": "operations"
+              },
+              {
+                  "name": "Brand Designer",
+                  "briefDescription": "Artisan of online presence, print, and BoG \"look and feel\"",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/DTviiC9Aa2FbvUMz5",
+                  "learnMoreHash": "marketing"
+              },
+              {
+                  "name": "Nonprofit Partnership Committee Member",
+                  "briefDescription": "Advocates ready to connect with potential nonprofits",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSfzCeu8cImYdxtjPRk0LoJWwVhUlcWOENCdVpHNIs7Fl4TTFw/viewform?usp=sf_link",
+                  "learnMoreHash": "npp"
+              },
+              {
+                  "name": "Design Operations",
+                  "briefDescription": "Helps build design team processes at scale",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdINNs8G_J17avN2umudPygBEbYo_ZBR2FhSuwhbUbcqBpf-A/viewform?usp=sf_link",
+                  "learnMoreHash": "design"
+              },
+              {
+                  "name": "Product Designer",
+                  "briefDescription": "Master of product mockups and UX",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdINNs8G_J17avN2umudPygBEbYo_ZBR2FhSuwhbUbcqBpf-A/viewform?usp=sf_link",
+                  "learnMoreHash": "design"
+              },
+              {
+                  "name": "Engineering Manager",
+                  "briefDescription": "Arbiter of the dev roadmap and GitHub guru",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScTolu4dyIXpYw3q55dwswtHTo3YylIWZJk3kE1xOhgKvo_tQ/viewform?usp=sf_link",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Engineering Operations",
+                  "briefDescription": "Helps build engineering team processes at scale",
+                  "description": {
+                      "html": "<p>Engineering Operations are expected to work closely with the Director and Associate Director of Engineering, working with high-level goals and operations and creating a strong foundation to foster community among engineering managers, developers &amp; engineering bootcampers.</p><p><strong>Responsibilities</strong></p><ul><li><p>Work closely with Engineering Exec to plan engineering centric initiatives and events.</p></li><li><p>Work with Engineering Exec to evaluate and improve engineering applications and recruitment</p></li><li><p>Document team growth, member feedback, and engineering tools for management, organization, and end-of-semester review</p></li></ul><p><strong>Who are we looking for?</strong></p><ul><li><p>Like every other role in Bits of Good we are always looking for yellow jackets passionate about social good</p></li><li><p>Technical experience is <strong>not</strong> required, however, if you do have technical experience or want to improve your technical ability then we do have technical tasks you can take on!</p></li></ul><p><strong>Time commitment:</strong> 2-6 hours per week, including hour-long general meetings and meetings with engineering directors.</p><p><strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong></p>",
+                      "inlineHtml": "Engineering Operations are expected to work closely with the Director and Associate Director of Engineering, working with high-level goals and operations and creating a strong foundation to foster community among engineering managers, developers &amp; engineering bootcampers.<strong>Responsibilities</strong><ul><li>Work closely with Engineering Exec to plan engineering centric initiatives and events.</li><li>Work with Engineering Exec to evaluate and improve engineering applications and recruitment</li><li>Document team growth, member feedback, and engineering tools for management, organization, and end-of-semester review</li></ul><strong>Who are we looking for?</strong><ul><li>Like every other role in Bits of Good we are always looking for yellow jackets passionate about social good</li><li>Technical experience is <strong>not</strong> required, however, if you do have technical experience or want to improve your technical ability then we do have technical tasks you can take on!</li></ul><strong>Time commitment:</strong> 2-6 hours per week, including hour-long general meetings and meetings with engineering directors.<strong>Note: If you cannot make our general meetings in-person on Tuesdays at 6:30 PM, you will not be eligible to join our organization</strong>"
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSeD8Qre_WG8gV8lh31SsQ7Mv32rv_a4-hONziApnPuC_jBrwg/viewform?usp=sf_link",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Developer Bootcamp Instructor",
+                  "briefDescription": "Instructors to teach basics of React and Express",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScVgrwUhWkniMAuJ1UAHLtCGyMgutuNY5Vzb6pc7-MUWAjBwg/viewform?usp=sf_link",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Developer",
+                  "briefDescription": "An experienced webdev ready to dive into our JS-heavy stack",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Developer Bootcamper",
+                  "briefDescription": "Students excited to make an impact with webdev",
+                  "description": {
+                      "html": "<p>Those with entry-level programming experience, but little exposure to web development. Join if you&#39;re excited to learn about web technologies, or you&#39;re just hyped to make an impact in the social good space!</p><ul><li><p>Follow along with our <a href=\"https://www.notion.so/gtbitsofgood/Bootcamp-b1fe164df73e42d3b9c2ab0755e4ca49\">online curriculum</a>, completing activities as we go</p></li><li><p>Attend our workshops twice a week</p></li><li><p>Attend office hours to catch up on missed material, or for concept clarification</p></li><li><p>Get <em>jazzed</em> to work on team projects and help out your peers</p></li></ul><p><strong>Time commitment</strong></p><p>4-5 hours per week, including 2 in-person workshops</p><p><br/><br/></p>",
+                      "inlineHtml": "Those with entry-level programming experience, but little exposure to web development. Join if you&#39;re excited to learn about web technologies, or you&#39;re just hyped to make an impact in the social good space!<ul><li>Follow along with our <a href=\"https://www.notion.so/gtbitsofgood/Bootcamp-b1fe164df73e42d3b9c2ab0755e4ca49\">online curriculum</a>, completing activities as we go</li><li>Attend our workshops twice a week</li><li>Attend office hours to catch up on missed material, or for concept clarification</li><li>Get <em>jazzed</em> to work on team projects and help out your peers</li></ul><strong>Time commitment</strong>4-5 hours per week, including 2 in-person workshops<br/><br/>"
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Design Bootcamper",
+                  "briefDescription": "Students intrigued by the world of design",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/wMGii4G1wYBiVrmh7",
+                  "learnMoreHash": "design"
+              }
+          ],
+          "active": true
+      },
+      {
+          "label": "Spring 2023 Recruitment (PMEMDC)",
+          "term": "Spring 2023",
+          "announcement": {
+              "html": "<p>Our Spring 2023 Applications for PMs, EMs, Designers, Committees, and Bootcamp Instructors are now closed. Good news - we will be recruiting for select positions at the start of next semester! In the meantime, follow our Instagram @gtbitsofgood to get all recruitment updates!</p>",
+              "inlineHtml": "Our Spring 2023 Applications for PMs, EMs, Designers, Committees, and Bootcamp Instructors are now closed. Good news - we will be recruiting for select positions at the start of next semester! In the meantime, follow our Instagram @gtbitsofgood to get all recruitment updates!"
+          },
+          "tagline": {
+              "html": "<p>Please check back at the beginning of the Spring Semester to see what roles we open up! For any questions please refer to our <a href=\"https://gtbitsofgood.notion.site/Recruitment-Membership-FAQ-d4d39bec35cc4897b49312149fe9bd0a\">FAQ Page</a> &amp; our <a href=\"https://gtbitsofgood.notion.site/VIP-b0abbc55ba424ddea5dd71cd8ad3151c\">VIP Information Page</a>.</p>",
+              "inlineHtml": "Please check back at the beginning of the Spring Semester to see what roles we open up! For any questions please refer to our <a href=\"https://gtbitsofgood.notion.site/Recruitment-Membership-FAQ-d4d39bec35cc4897b49312149fe9bd0a\">FAQ Page</a> &amp; our <a href=\"https://gtbitsofgood.notion.site/VIP-b0abbc55ba424ddea5dd71cd8ad3151c\">VIP Information Page</a>."
+          },
+          "openRoles": [
+              {
+                  "name": "Dev Bootcamper",
+                  "briefDescription": "Students excited to make an impact with webdev",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Design Bootcamper",
+                  "briefDescription": "Students intrigued by the world of design",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/wMGii4G1wYBiVrmh7",
+                  "learnMoreHash": "design"
+              },
+              {
+                  "name": "Developer",
+                  "briefDescription": "An experienced webdev ready to dive into our JS-heavy stack",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              }
+          ],
+          "futureRoles": [
+              {
+                  "name": "Developer",
+                  "briefDescription": "An experienced webdev ready to dive into our JS-heavy stack",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Dev Bootcamper",
+                  "briefDescription": "Students excited to make an impact with webdev",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Design Bootcamper",
+                  "briefDescription": "Students intrigued by the world of design",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/wMGii4G1wYBiVrmh7",
+                  "learnMoreHash": "design"
+              }
+          ],
+          "active": true
+      },
+      {
+          "label": "Spring 2023 Recruitment",
+          "term": "Spring 2023",
+          "announcement": {
+              "html": "<p>Our Spring 2023 Applications for Design and Developer bootcamp and developers are now closed. Good news - we will be recruiting for select positions at the end of this semester! In the meantime, follow our Instagram @gtbitsofgood to get all recruitment updates!</p>",
+              "inlineHtml": "Our Spring 2023 Applications for Design and Developer bootcamp and developers are now closed. Good news - we will be recruiting for select positions at the end of this semester! In the meantime, follow our Instagram @gtbitsofgood to get all recruitment updates!"
+          },
+          "tagline": {
+              "html": "<p>Please check back at the end of the Spring Semester to see what roles we open up! For any questions please refer to our <a href=\"https://gtbitsofgood.notion.site/Recruitment-Membership-FAQ-d4d39bec35cc4897b49312149fe9bd0a\">FAQ Page</a> &amp; our <a href=\"https://gtbitsofgood.notion.site/VIP-b0abbc55ba424ddea5dd71cd8ad3151c\">VIP Information Page</a>.</p>",
+              "inlineHtml": "Please check back at the end of the Spring Semester to see what roles we open up! For any questions please refer to our <a href=\"https://gtbitsofgood.notion.site/Recruitment-Membership-FAQ-d4d39bec35cc4897b49312149fe9bd0a\">FAQ Page</a> &amp; our <a href=\"https://gtbitsofgood.notion.site/VIP-b0abbc55ba424ddea5dd71cd8ad3151c\">VIP Information Page</a>."
+          },
+          "futureRoles": [
+              {
+                  "name": "Product Manager",
+                  "briefDescription": "The frontline client communicator and project team lead",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScr6UKj38DxHaYzoveM8vrE1FgtpZ6LpnvbZkbBcsMRyl6WIQ/viewform?usp=sf_link",
+                  "learnMoreHash": "product"
+              },
+              {
+                  "name": "Engineering Manager",
+                  "briefDescription": "Arbiter of the dev roadmap and GitHub guru",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScTolu4dyIXpYw3q55dwswtHTo3YylIWZJk3kE1xOhgKvo_tQ/viewform?usp=sf_link",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Developer Bootcamp Instructor",
+                  "briefDescription": "Instructors to teach basics of React and Express",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScVgrwUhWkniMAuJ1UAHLtCGyMgutuNY5Vzb6pc7-MUWAjBwg/viewform?usp=sf_link",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Operations and Community Coordinator",
+                  "briefDescription": "Coordinator of club initiatives, logistics, and more",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSd5mo_fTie5Dx3Mm4OsLj0ddWQ0FCj0LBytH9nEdT7R_Z8Arg/viewform?usp=sf_link",
+                  "learnMoreHash": "operations"
+              },
+              {
+                  "name": "Design Bootcamp Instructor",
+                  "briefDescription": "Leaders who develop future Bits of Good designers",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/rJJhKVMg25WAv2ddA",
+                  "learnMoreHash": "design"
+              },
+              {
+                  "name": "Content Writer",
+                  "briefDescription": "Quick with a pen, ready to inspire others",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/M8QT1X37rWMk2FCP6",
+                  "learnMoreHash": "marketing"
+              },
+              {
+                  "name": "Nonprofit Partnership Committee Member",
+                  "briefDescription": "Advocates ready to connect with potential nonprofits",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSfzCeu8cImYdxtjPRk0LoJWwVhUlcWOENCdVpHNIs7Fl4TTFw/viewform?usp=sf_link",
+                  "learnMoreHash": "npp"
+              }
+          ],
+          "active": false
+      },
+      {
+          "label": "Fall 2022 Recruitment",
+          "term": "Fall 2022",
+          "announcement": {
+              "html": "<p>All Fall 2022 positions are now closed!</p>",
+              "inlineHtml": "All Fall 2022 positions are now closed!"
+          },
+          "tagline": {
+              "html": "<p>Our Fall 2022 Recruitment Cycle is now over! To receive updates for future recruitment cycles follow us on Instagram @gtbitsofgood. For any questions please refer to our <a href=\"https://gtbitsofgood.notion.site/Recruitment-Membership-FAQ-d4d39bec35cc4897b49312149fe9bd0a\">FAQ Page</a> &amp; our <a href=\"https://gtbitsofgood.notion.site/VIP-b0abbc55ba424ddea5dd71cd8ad3151c\">VIP Information Page</a>.</p>",
+              "inlineHtml": "Our Fall 2022 Recruitment Cycle is now over! To receive updates for future recruitment cycles follow us on Instagram @gtbitsofgood. For any questions please refer to our <a href=\"https://gtbitsofgood.notion.site/Recruitment-Membership-FAQ-d4d39bec35cc4897b49312149fe9bd0a\">FAQ Page</a> &amp; our <a href=\"https://gtbitsofgood.notion.site/VIP-b0abbc55ba424ddea5dd71cd8ad3151c\">VIP Information Page</a>."
+          },
+          "futureRoles": [
+              {
+                  "name": "Product Manager",
+                  "briefDescription": "The frontline client communicator and project team lead",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScr6UKj38DxHaYzoveM8vrE1FgtpZ6LpnvbZkbBcsMRyl6WIQ/viewform?usp=sf_link",
+                  "learnMoreHash": "product"
+              },
+              {
+                  "name": "Engineering Manager",
+                  "briefDescription": "Arbiter of the dev roadmap and GitHub guru",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScTolu4dyIXpYw3q55dwswtHTo3YylIWZJk3kE1xOhgKvo_tQ/viewform?usp=sf_link",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Product Designer",
+                  "briefDescription": "Master of product mockups and UX",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdINNs8G_J17avN2umudPygBEbYo_ZBR2FhSuwhbUbcqBpf-A/viewform?usp=sf_link",
+                  "learnMoreHash": "design"
+              }
+          ],
+          "active": false
+      },
+      {
+          "label": "Priority Dev + Committees",
+          "announcement": {
+              "html": "<p>Priority Software Developer Applications Are Open!</p>",
+              "inlineHtml": "Priority Software Developer Applications Are Open!"
+          },
+          "tagline": {
+              "html": "<p>We&#39;re currently recruiting our software developers for the Fall 2020 Semester. Check out our applications below, and click &quot;learn more&quot; for a detailed description of the department and role. Bootcamp applications will open in the Fall!</p>",
+              "inlineHtml": "We&#39;re currently recruiting our software developers for the Fall 2020 Semester. Check out our applications below, and click &quot;learn more&quot; for a detailed description of the department and role. Bootcamp applications will open in the Fall!"
+          },
+          "openRoles": [
+              {
+                  "name": "Developer",
+                  "briefDescription": "An experienced webdev ready to dive into our JS-heavy stack",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Brand Marketer",
+                  "briefDescription": "Knower of all-things communication and social media",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/M8QT1X37rWMk2FCP6",
+                  "learnMoreHash": "marketing"
+              },
+              {
+                  "name": "Content Writer",
+                  "briefDescription": "Quick with a pen, ready to inspire others",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/M8QT1X37rWMk2FCP6",
+                  "learnMoreHash": "marketing"
+              }
+          ],
+          "futureRoles": [
+              {
+                  "name": "Dev Bootcamper",
+                  "briefDescription": "Students excited to make an impact with webdev",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              }
+          ],
+          "active": false
+      },
+      {
+          "label": "Offseason: Fall",
+          "tagline": {
+              "html": "<p>We don&#39;t have any open positions at the moment. Stay tuned for when applications open again at the end of the Fall semester!</p>",
+              "inlineHtml": "We don&#39;t have any open positions at the moment. Stay tuned for when applications open again at the end of the Fall semester!"
+          },
+          "futureRoles": [
+              {
+                  "name": "Developer",
+                  "briefDescription": "An experienced webdev ready to dive into our JS-heavy stack",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Dev Bootcamper",
+                  "briefDescription": "Students excited to make an impact with webdev",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Design Bootcamper",
+                  "briefDescription": "Students intrigued by the world of design",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/wMGii4G1wYBiVrmh7",
+                  "learnMoreHash": "design"
+              },
+              {
+                  "name": "Engineering Manager",
+                  "briefDescription": "Arbiter of the dev roadmap and GitHub guru",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScTolu4dyIXpYw3q55dwswtHTo3YylIWZJk3kE1xOhgKvo_tQ/viewform?usp=sf_link",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Product Manager",
+                  "briefDescription": "The frontline client communicator and project team lead",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScr6UKj38DxHaYzoveM8vrE1FgtpZ6LpnvbZkbBcsMRyl6WIQ/viewform?usp=sf_link",
+                  "learnMoreHash": "product"
+              },
+              {
+                  "name": "Product Designer",
+                  "briefDescription": "Master of product mockups and UX",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdINNs8G_J17avN2umudPygBEbYo_ZBR2FhSuwhbUbcqBpf-A/viewform?usp=sf_link",
+                  "learnMoreHash": "design"
+              },
+              {
+                  "name": "Brand Designer",
+                  "briefDescription": "Artisan of online presence, print, and BoG \"look and feel\"",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/DTviiC9Aa2FbvUMz5",
+                  "learnMoreHash": "marketing"
+              }
+          ],
+          "active": true
+      },
+      {
+          "label": "Regular Dev + Bootcamp + Committees",
+          "announcement": {
+              "html": "<p>Fall Applications OPEN NOW</p>",
+              "inlineHtml": "Fall Applications OPEN NOW"
+          },
+          "tagline": {
+              "html": "<p>We have Developer, Bootcamp, and Committee positions now open for the Fall! Check out our openings below and apply today.</p>",
+              "inlineHtml": "We have Developer, Bootcamp, and Committee positions now open for the Fall! Check out our openings below and apply today."
+          },
+          "openRoles": [
+              {
+                  "name": "Dev Bootcamper",
+                  "briefDescription": "Students excited to make an impact with webdev",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Developer",
+                  "briefDescription": "An experienced webdev ready to dive into our JS-heavy stack",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Design Bootcamper",
+                  "briefDescription": "Students intrigued by the world of design",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/wMGii4G1wYBiVrmh7",
+                  "learnMoreHash": "design"
+              },
+              {
+                  "name": "Brand Marketer",
+                  "briefDescription": "Knower of all-things communication and social media",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/M8QT1X37rWMk2FCP6",
+                  "learnMoreHash": "marketing"
+              },
+              {
+                  "name": "Content Writer",
+                  "briefDescription": "Quick with a pen, ready to inspire others",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/M8QT1X37rWMk2FCP6",
+                  "learnMoreHash": "marketing"
+              }
+          ],
+          "active": false
+      },
+      {
+          "label": "Offseason: Summer",
+          "tagline": {
+              "html": "<p>We do not have any open positions for the summer. Check back again in the Fall to apply for Bootcamp and other opportunities in Bits of Good!</p>",
+              "inlineHtml": "We do not have any open positions for the summer. Check back again in the Fall to apply for Bootcamp and other opportunities in Bits of Good!"
+          },
+          "futureRoles": [
+              {
+                  "name": "Dev Bootcamper",
+                  "briefDescription": "Students excited to make an impact with webdev",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Developer",
+                  "briefDescription": "An experienced webdev ready to dive into our JS-heavy stack",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Design Bootcamper",
+                  "briefDescription": "Students intrigued by the world of design",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/wMGii4G1wYBiVrmh7",
+                  "learnMoreHash": "design"
+              },
+              {
+                  "name": "Brand Marketer",
+                  "briefDescription": "Knower of all-things communication and social media",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/M8QT1X37rWMk2FCP6",
+                  "learnMoreHash": "marketing"
+              },
+              {
+                  "name": "Content Writer",
+                  "briefDescription": "Quick with a pen, ready to inspire others",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/M8QT1X37rWMk2FCP6",
+                  "learnMoreHash": "marketing"
+              }
+          ],
+          "active": false
+      },
+      {
+          "label": "Leadership + Committees",
+          "announcement": {
+              "html": "<p>Spring Applications OPEN NOW</p>",
+              "inlineHtml": "Spring Applications OPEN NOW"
+          },
+          "tagline": {
+              "html": "<p>We&#39;re currently recruiting our project leaders / superstars (Engineering Managers, Product Managers, and Product Designers) and department committee members for marketing, operations, design, and product. Check out our applications below, and click &quot;learn more&quot; for a detailed description of the department and role.</p>",
+              "inlineHtml": "We&#39;re currently recruiting our project leaders / superstars (Engineering Managers, Product Managers, and Product Designers) and department committee members for marketing, operations, design, and product. Check out our applications below, and click &quot;learn more&quot; for a detailed description of the department and role."
+          },
+          "openRoles": [
+              {
+                  "name": "Engineering Manager",
+                  "briefDescription": "Arbiter of the dev roadmap and GitHub guru",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScTolu4dyIXpYw3q55dwswtHTo3YylIWZJk3kE1xOhgKvo_tQ/viewform?usp=sf_link",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Product Designer",
+                  "briefDescription": "Master of product mockups and UX",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdINNs8G_J17avN2umudPygBEbYo_ZBR2FhSuwhbUbcqBpf-A/viewform?usp=sf_link",
+                  "learnMoreHash": "design"
+              },
+              {
+                  "name": "Design Operations",
+                  "briefDescription": "Helps build design team processes at scale",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdINNs8G_J17avN2umudPygBEbYo_ZBR2FhSuwhbUbcqBpf-A/viewform?usp=sf_link",
+                  "learnMoreHash": "design"
+              },
+              {
+                  "name": "Product Manager",
+                  "briefDescription": "The frontline client communicator and project team lead",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScr6UKj38DxHaYzoveM8vrE1FgtpZ6LpnvbZkbBcsMRyl6WIQ/viewform?usp=sf_link",
+                  "learnMoreHash": "product"
+              },
+              null,
+              {
+                  "name": "Nonprofit Partnership Committee Member",
+                  "briefDescription": "Advocates ready to connect with potential nonprofits",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSfzCeu8cImYdxtjPRk0LoJWwVhUlcWOENCdVpHNIs7Fl4TTFw/viewform?usp=sf_link",
+                  "learnMoreHash": "npp"
+              },
+              {
+                  "name": "Content Writer",
+                  "briefDescription": "Quick with a pen, ready to inspire others",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/M8QT1X37rWMk2FCP6",
+                  "learnMoreHash": "marketing"
+              }
+          ],
+          "futureRoles": [
+              {
+                  "name": "Developer",
+                  "briefDescription": "An experienced webdev ready to dive into our JS-heavy stack",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Dev Bootcamper",
+                  "briefDescription": "Students excited to make an impact with webdev",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Design Bootcamper",
+                  "briefDescription": "Students intrigued by the world of design",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/wMGii4G1wYBiVrmh7",
+                  "learnMoreHash": "design"
+              }
+          ],
+          "active": true
+      },
+      {
+          "label": "Offseason: Spring",
+          "tagline": {
+              "html": "<p>We don&#39;t have any open positions at the moment :(</p><p>Still, stay tuned for <strong>product manager, engineering manager, and designer </strong>applications opening later in March!</p>",
+              "inlineHtml": "We don&#39;t have any open positions at the moment :(Still, stay tuned for <strong>product manager, engineering manager, and designer </strong>applications opening later in March!"
+          },
+          "futureRoles": [
+              {
+                  "name": "Engineering Manager",
+                  "briefDescription": "Arbiter of the dev roadmap and GitHub guru",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScTolu4dyIXpYw3q55dwswtHTo3YylIWZJk3kE1xOhgKvo_tQ/viewform?usp=sf_link",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Product Manager",
+                  "briefDescription": "The frontline client communicator and project team lead",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScr6UKj38DxHaYzoveM8vrE1FgtpZ6LpnvbZkbBcsMRyl6WIQ/viewform?usp=sf_link",
+                  "learnMoreHash": "product"
+              },
+              {
+                  "name": "Product Designer",
+                  "briefDescription": "Master of product mockups and UX",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdINNs8G_J17avN2umudPygBEbYo_ZBR2FhSuwhbUbcqBpf-A/viewform?usp=sf_link",
+                  "learnMoreHash": "design"
+              },
+              {
+                  "name": "Brand Designer",
+                  "briefDescription": "Artisan of online presence, print, and BoG \"look and feel\"",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/DTviiC9Aa2FbvUMz5",
+                  "learnMoreHash": "marketing"
+              }
+          ],
+          "active": false
+      },
+      {
+          "label": "Spring 2022 Recruitment",
+          "term": "Spring 2022",
+          "announcement": {
+              "html": "<p>Select Spring 2022 positions are open right now!</p>",
+              "inlineHtml": "Select Spring 2022 positions are open right now!"
+          },
+          "tagline": {
+              "html": "<p>We are currently recruiting for developers and design bootcampers to join for Spring 2022! For any questions please refer to our <a href=\"https://gtbitsofgood.notion.site/Recruitment-Membership-FAQ-d4d39bec35cc4897b49312149fe9bd0a\">FAQ Page</a> &amp; our <a href=\"https://gtbitsofgood.notion.site/VIP-b0abbc55ba424ddea5dd71cd8ad3151c\">VIP Information Page</a>.</p><p></p><p></p><p></p><p></p><p>Note that due to capacity constraints we will not be having a developer bootcamp this upcoming Spring semester. Instead, we are making the resources we use for the bootcamp available <a href=\"https://www.notion.so/gtbitsofgood/Bits-of-Good-Bootcamp-b1fe164df73e42d3b9c2ab0755e4ca49\">here</a>.</p>",
+              "inlineHtml": "We are currently recruiting for developers and design bootcampers to join for Spring 2022! For any questions please refer to our <a href=\"https://gtbitsofgood.notion.site/Recruitment-Membership-FAQ-d4d39bec35cc4897b49312149fe9bd0a\">FAQ Page</a> &amp; our <a href=\"https://gtbitsofgood.notion.site/VIP-b0abbc55ba424ddea5dd71cd8ad3151c\">VIP Information Page</a>.Note that due to capacity constraints we will not be having a developer bootcamp this upcoming Spring semester. Instead, we are making the resources we use for the bootcamp available <a href=\"https://www.notion.so/gtbitsofgood/Bits-of-Good-Bootcamp-b1fe164df73e42d3b9c2ab0755e4ca49\">here</a>."
+          },
+          "openRoles": [
+              {
+                  "name": "Developer",
+                  "briefDescription": "An experienced webdev ready to dive into our JS-heavy stack",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Design Bootcamper",
+                  "briefDescription": "Students intrigued by the world of design",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/wMGii4G1wYBiVrmh7",
+                  "learnMoreHash": "design"
+              }
+          ],
+          "active": false
+      },
+      {
+          "label": "Fall 2021 Dev + Design bootcamp Recruitment",
+          "announcement": {
+              "html": "<p>Select Fall 2021 positions are open now!</p>",
+              "inlineHtml": "Select Fall 2021 positions are open now!"
+          },
+          "tagline": {
+              "html": "<p>We are currently recruiting for various positions under product, design, engineering, operations, and marketing departments to join for Fall 2021. Apply Today!</p>",
+              "inlineHtml": "We are currently recruiting for various positions under product, design, engineering, operations, and marketing departments to join for Fall 2021. Apply Today!"
+          },
+          "openRoles": [
+              {
+                  "name": "Dev Bootcamper",
+                  "briefDescription": "Students excited to make an impact with webdev",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Developer",
+                  "briefDescription": "An experienced webdev ready to dive into our JS-heavy stack",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Design Bootcamper",
+                  "briefDescription": "Students intrigued by the world of design",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/wMGii4G1wYBiVrmh7",
+                  "learnMoreHash": "design"
+              },
+              {
+                  "name": "Operations and Community Coordinator",
+                  "briefDescription": "Coordinator of club initiatives, logistics, and more",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSd5mo_fTie5Dx3Mm4OsLj0ddWQ0FCj0LBytH9nEdT7R_Z8Arg/viewform?usp=sf_link",
+                  "learnMoreHash": "operations"
+              },
+              {
+                  "name": "Nonprofit Partnership Committee Member",
+                  "briefDescription": "Advocates ready to connect with potential nonprofits",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSfzCeu8cImYdxtjPRk0LoJWwVhUlcWOENCdVpHNIs7Fl4TTFw/viewform?usp=sf_link",
+                  "learnMoreHash": "npp"
+              },
+              {
+                  "name": "Brand Marketer",
+                  "briefDescription": "Knower of all-things communication and social media",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/M8QT1X37rWMk2FCP6",
+                  "learnMoreHash": "marketing"
+              },
+              {
+                  "name": "Content Writer",
+                  "briefDescription": "Quick with a pen, ready to inspire others",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/M8QT1X37rWMk2FCP6",
+                  "learnMoreHash": "marketing"
+              }
+          ],
+          "futureRoles": [
+              {
+                  "name": "Product Manager",
+                  "briefDescription": "The frontline client communicator and project team lead",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScr6UKj38DxHaYzoveM8vrE1FgtpZ6LpnvbZkbBcsMRyl6WIQ/viewform?usp=sf_link",
+                  "learnMoreHash": "product"
+              },
+              {
+                  "name": "Product Designer",
+                  "briefDescription": "Master of product mockups and UX",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdINNs8G_J17avN2umudPygBEbYo_ZBR2FhSuwhbUbcqBpf-A/viewform?usp=sf_link",
+                  "learnMoreHash": "design"
+              },
+              {
+                  "name": "Engineering Manager",
+                  "briefDescription": "Arbiter of the dev roadmap and GitHub guru",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScTolu4dyIXpYw3q55dwswtHTo3YylIWZJk3kE1xOhgKvo_tQ/viewform?usp=sf_link",
+                  "learnMoreHash": "engineering"
+              }
+          ],
+          "active": false
+      },
+      {
+          "label": "Fall Engineering Manager",
+          "announcement": {
+              "html": "<p>Engineering Manager Applications OPEN NOW</p>",
+              "inlineHtml": "Engineering Manager Applications OPEN NOW"
+          },
+          "tagline": {
+              "html": "<p>We are currently recruiting Engineering Managers to join for Fall 2021. Apply Today!</p>",
+              "inlineHtml": "We are currently recruiting Engineering Managers to join for Fall 2021. Apply Today!"
+          },
+          "openRoles": [
+              {
+                  "name": "Engineering Manager",
+                  "briefDescription": "Arbiter of the dev roadmap and GitHub guru",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://docs.google.com/forms/d/e/1FAIpQLScTolu4dyIXpYw3q55dwswtHTo3YylIWZJk3kE1xOhgKvo_tQ/viewform?usp=sf_link",
+                  "learnMoreHash": "engineering"
+              }
+          ],
+          "futureRoles": [
+              {
+                  "name": "Dev Bootcamper",
+                  "briefDescription": "Students excited to make an impact with webdev",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Developer",
+                  "briefDescription": "An experienced webdev ready to dive into our JS-heavy stack",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://recruitment.bitsofgood.org/",
+                  "learnMoreHash": "engineering"
+              },
+              {
+                  "name": "Design Bootcamper",
+                  "briefDescription": "Students intrigued by the world of design",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/wMGii4G1wYBiVrmh7",
+                  "learnMoreHash": "design"
+              },
+              {
+                  "name": "Brand Marketer",
+                  "briefDescription": "Knower of all-things communication and social media",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/M8QT1X37rWMk2FCP6",
+                  "learnMoreHash": "marketing"
+              },
+              {
+                  "name": "Content Writer",
+                  "briefDescription": "Quick with a pen, ready to inspire others",
+                  "description": {
+                      "html": "",
+                      "inlineHtml": ""
+                  },
+                  "applyLink": "https://forms.gle/M8QT1X37rWMk2FCP6",
+                  "learnMoreHash": "marketing"
+              }
+          ],
+          "active": false
+      }
+  ]
+}

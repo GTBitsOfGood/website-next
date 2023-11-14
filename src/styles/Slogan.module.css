@@ -1,0 +1,30 @@
+.container {
+  margin-top: -10rem;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.svg {
+  width: 100%;
+  min-width: 1200px;
+  z-index: -1;
+}
+
+.img {
+  position: absolute;
+  top: 25rem;
+  margin: auto;
+  height: 15rem;
+  max-width: 90%;
+}
+
+@media (max-width: 50rem) {
+  .img {
+    top: 15rem;
+  }
+  .svg {
+    height: 500px;
+  }
+}
