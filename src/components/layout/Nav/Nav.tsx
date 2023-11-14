@@ -29,7 +29,7 @@ export default function Nav() {
         <li className={styles.li}>
           <a
             className={router.asPath === "/about" ? styles.selected : styles.a}
-            href="/"
+            href="/about"
           >
             About Us
           </a>
@@ -37,7 +37,7 @@ export default function Nav() {
         <li className={styles.li}>
           <a
             className={router.asPath === "/roles" ? styles.selected : styles.a}
-            href="/"
+            href="/roles"
           >
             Roles
           </a>
@@ -47,7 +47,7 @@ export default function Nav() {
             className={
               router.asPath === "/projects" ? styles.selected : styles.a
             }
-            href="/"
+            href="/projects"
           >
             Projects
           </a>
@@ -55,7 +55,7 @@ export default function Nav() {
         <li className={styles.li}>
           <a
             className={router.asPath === "/blog" ? styles.selected : styles.a}
-            href="/"
+            href="/blog"
           >
             Blog
           </a>
@@ -65,7 +65,7 @@ export default function Nav() {
             className={
               router.asPath === "/contact" ? styles.selected : styles.a
             }
-            href="/"
+            href="/contact"
           >
             Contact Us
           </a>
