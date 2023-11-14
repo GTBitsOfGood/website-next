@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import classes from "../styles/Role.module.css";
+import classes from "../styles/Roles.module.css";
 import Department from "../components/about-us/roles/Department";
 
 interface DepartmentData {
