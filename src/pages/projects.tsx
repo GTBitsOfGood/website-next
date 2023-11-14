@@ -4,8 +4,8 @@
 import Project from "@/components/Project";
 import styles from "../styles/Projects.module.css";
 import React, { useEffect, useState } from "react";
-import PageHeader from "@/components/PageHeader";
-import Navbar from "@/components/nav";
+// import PageHeader from "@/components/PageHeader";
+// import Navbar from "@/components/nav";
 
 const Projects = () => {
   const [content, setContent] = useState<any>(null);
@@ -41,7 +41,6 @@ const Projects = () => {
 
   return (
     <div>
-      <Navbar />
       {/* <PageHeader {...content} /> */}
       <section>
         <h2>Current Projects</h2>
