@@ -18,8 +18,6 @@ const Projects = () => {
       .then((jsonData) => {
         const data = jsonData.data[0];
         setContent(data);
-        console.log(data);
-        console.log(data.projects);
 
         //sort projects
         const updateCurr = [];
@@ -45,7 +43,7 @@ const Projects = () => {
       <section>
         <h2>Current Projects</h2>
         <div className={styles.projectsContainer}>
-          {currProjects.map(({ name, briefDescription, key, thumbnail }) => (
+          {currProjects.map(({ name, briefDescription, key, thumbnail } : any) => (
             <Project
               key={key}
               name={name}
@@ -57,7 +55,7 @@ const Projects = () => {
         </div>
         <h2>Past Projects</h2>
         <div className={styles.projectsContainer}>
-          {pastProjects.map(({ name, briefDescription, key, thumbnail }) => (
+          {pastProjects.map(({ name, briefDescription, key, thumbnail } : any) => (
             <Project
               key={key}
               name={name}

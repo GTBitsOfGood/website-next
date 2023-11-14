@@ -2,7 +2,7 @@
 import React from "react";
 import styles from "./Project.module.css";
 
-const Card = ({ name, briefDescription, image, link }) => {
+const Card = ({ name, briefDescription, image, link } : any) => {
   return (
     <a href={link} className={styles.container}>
       <div className={styles.imgContainer}>
