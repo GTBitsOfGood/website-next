@@ -1,3 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700&display=swap');
+
+@font-face {
+  font-family: 'HK Grotesk';
+  font-display: swap;
+  font-weight: bold;
+  src: url('fonts/HKGrotesk-Bold.woff2') format('woff2'),
+    url('fonts/HKGrotesk-Bold.ttf') format('truetype'),
+    url('fonts/HKGrotesk-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'HK Grotesk';
+  font-display: swap;
+  font-weight: normal;
+  src: url('fonts/HKGrotesk-Regular.woff2') format('woff2'),
+    url('fonts/HKGrotesk-Regular.ttf') format('truetype'),
+    url('fonts/HKGrotesk-Regular.woff') format('woff');
+}
+
 :root {
   /* maximum width of section content before auto margins are applied
      (prevents content or text from getting too wide on large monitors) */
@@ -59,28 +79,23 @@ h3 {
   margin-top: 0.7em;
   margin-bottom: 0.7em;
 }
-
 h1,
 h2 {
   font-size: var(--header-1-desktop);
 }
-
 h3 {
   font-size: var(--header-2-desktop);
 }
-
 h4 {
   font-family: inherit;
   font-size: var(--body-xl);
 }
 
 @media (max-width: 600px) {
-
   h1,
   h2 {
     font-size: var(--header-1-mobile);
   }
-
   h3 {
     font-size: var(--header-2-mobile);
   }
@@ -127,6 +142,35 @@ a:visited {
   text-decoration: none;
   font-weight: bold;
   transition: color 0.2s;
+}
+
+a:hover,
+a:active {
+  color: var(--primary-yellow);
+}
+
+body {
+  margin: 0;
+  font-family: var(--body-font);
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.5;
+  color: #333;
+}
+
+body,
+input,
+textarea {
+  letter-spacing: 0.03em;
+}
+
+code {
+  font-family: menlo, inconsolata, monospace;
+  font-size: calc(1em - 2px);
+  color: #555;
+  background-color: #f0f0f0;
+  padding: 0.2em 0.4em;
+  border-radius: 2px;
 }
 
 a:hover,
