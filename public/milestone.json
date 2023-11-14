@@ -1,0 +1,124 @@
+{
+  "data": [
+      {
+          "key": "milestone-1",
+          "heading": "Humanitech becomes Bits of Good",
+          "description": {
+              "html": "<p>It all starts when a young <strong>Rhea Chatterjee </strong>revives the dying Humanitech initiative, striving to connect students with ATL nonprofits. Helped by the talented<strong> Andre Hijaouy</strong> and <strong>Anna Herrera, </strong>a robust, rebranded organization is born: Bits of Good.</p>",
+              "inlineHtml": "It all starts when a young <strong>Rhea Chatterjee </strong>revives the dying Humanitech initiative, striving to connect students with ATL nonprofits. Helped by the talented<strong> Andre Hijaouy</strong> and <strong>Anna Herrera, </strong>a robust, rebranded organization is born: Bits of Good."
+          },
+          "time": "Mar 2017",
+          "orderingIndex": 1
+      },
+      {
+          "key": "milestone-2",
+          "heading": "Partnership with Hack4Impact",
+          "description": {
+              "html": "<p>Always striving to make connections, Andre and Rhea explain their mission to the countrywide Hack4Impact organization at their San Francisco meetup. Under the Hack4Impact umbrella, they receive invaluable mentorship in best practices.</p>",
+              "inlineHtml": "Always striving to make connections, Andre and Rhea explain their mission to the countrywide Hack4Impact organization at their San Francisco meetup. Under the Hack4Impact umbrella, they receive invaluable mentorship in best practices."
+          },
+          "time": "July 2017",
+          "orderingIndex": 2
+      },
+      {
+          "key": "milestone-3",
+          "heading": "First year of Bits of Good",
+          "description": {
+              "html": "<p>With a partnership forged and logistics squared away, Bits of Good opens its first application for new members. Though only a handful of devs strong, the organization is destined for far-reaching impact.</p>",
+              "inlineHtml": "With a partnership forged and logistics squared away, Bits of Good opens its first application for new members. Though only a handful of devs strong, the organization is destined for far-reaching impact."
+          },
+          "time": "Aug 2017",
+          "orderingIndex": 3
+      },
+      {
+          "key": "milestone-4",
+          "heading": "Developer Bootcamp introduced",
+          "description": {
+              "html": "<p>Under the weight of increasing nonprofit interest, BoG needs all the talent it can get. Instead of hoping experienced web devs will appear, Andre decides BoG can breed talent of its own. Thus, he organizes a semester-long bootcamp in full stack<strong> </strong>and database fundamentals.<strong> </strong></p>",
+              "inlineHtml": "Under the weight of increasing nonprofit interest, BoG needs all the talent it can get. Instead of hoping experienced web devs will appear, Andre decides BoG can breed talent of its own. Thus, he organizes a semester-long bootcamp in full stack<strong> </strong>and database fundamentals.<strong> </strong>"
+          },
+          "time": "Fall 2018",
+          "orderingIndex": 4
+      },
+      {
+          "key": "milestone-5",
+          "heading": "Product Managers introduced",
+          "description": {
+              "html": "<p>Having lead developers manage their tech stack <strong>and</strong> nonprofit communication was always a pain-point. In response, BoG introduces a new role to handle all communications and client expectations. A few PMs are introduced to test the waters, and it is a resounding success!</p>",
+              "inlineHtml": "Having lead developers manage their tech stack <strong>and</strong> nonprofit communication was always a pain-point. In response, BoG introduces a new role to handle all communications and client expectations. A few PMs are introduced to test the waters, and it is a resounding success!"
+          },
+          "time": "Spring 2019",
+          "orderingIndex": 5
+      },
+      {
+          "key": "milestone-6",
+          "heading": "Engineering Managers introduced ",
+          "description": {
+              "html": "<p>As we begin to work on more projects at once, our Project Managers realize they need more support. From this spawned a new position: Engineering Manager! &quot;EMs&quot; assist with turning product specs into actionable items, creating sprint cycles, and more. </p>",
+              "inlineHtml": "As we begin to work on more projects at once, our Project Managers realize they need more support. From this spawned a new position: Engineering Manager! &quot;EMs&quot; assist with turning product specs into actionable items, creating sprint cycles, and more. "
+          },
+          "time": "Fall 2019",
+          "orderingIndex": 6
+      },
+      {
+          "key": "milestone-7",
+          "heading": "Operations Committee introduced ",
+          "description": {
+              "html": "<p>The executive board recognizes that handling the financial and communal side of the organization at the same time as the project side isn&#39;t working. This spawned the creation of the Operations Committee! This team is tasked with managing financials, handling recruitment logistics, organizing community events, and more.</p>",
+              "inlineHtml": "The executive board recognizes that handling the financial and communal side of the organization at the same time as the project side isn&#39;t working. This spawned the creation of the Operations Committee! This team is tasked with managing financials, handling recruitment logistics, organizing community events, and more."
+          },
+          "time": "Fall 2019",
+          "orderingIndex": 7
+      },
+      {
+          "key": "milestone-8",
+          "heading": "Marketing Committee introduced ",
+          "description": {
+              "html": "<p>BoG recognizes a need for increasing its in-person and online presence within the GT community. This leads to the creation of the Marketing Committee! BoG marketing is in charge of updating the website, creating content for the &quot;BoG Blog&quot; and Newsletter, and organizing participation in school organization fairs. </p>",
+              "inlineHtml": "BoG recognizes a need for increasing its in-person and online presence within the GT community. This leads to the creation of the Marketing Committee! BoG marketing is in charge of updating the website, creating content for the &quot;BoG Blog&quot; and Newsletter, and organizing participation in school organization fairs. "
+          },
+          "time": "Fall 2019",
+          "orderingIndex": 8
+      },
+      {
+          "key": "milestone-9",
+          "heading": "Design Bootcamp introduced",
+          "description": {
+              "html": "<p>After introducing the Developer Bootcamp and witnessing the influx of talent it could bring to our organization, BoG figures, &quot;Why stop there?&quot; Thus was born the Designer Bootcamp! This semester-long program helps beginner and intermediate designers develop the core fundamentals of UX/UI and designing for digital products. </p>",
+              "inlineHtml": "After introducing the Developer Bootcamp and witnessing the influx of talent it could bring to our organization, BoG figures, &quot;Why stop there?&quot; Thus was born the Designer Bootcamp! This semester-long program helps beginner and intermediate designers develop the core fundamentals of UX/UI and designing for digital products. "
+          },
+          "time": "Spring 2020",
+          "orderingIndex": 9
+      },
+      {
+          "key": "milestone-10",
+          "heading": "Brand Committee becomes its own department ",
+          "description": {
+              "html": "<p>Originally a part of the Marketing Committee, Brand is tasked with creating visuals for all of BoG&#39;s media outlets from the website, to social media, to the blog, etc. They are masters of both maintaining a powerful online presence for the club and creating an on campus presence with the occasional merch drop!</p>",
+              "inlineHtml": "Originally a part of the Marketing Committee, Brand is tasked with creating visuals for all of BoG&#39;s media outlets from the website, to social media, to the blog, etc. They are masters of both maintaining a powerful online presence for the club and creating an on campus presence with the occasional merch drop!"
+          },
+          "time": "Spring 2021",
+          "orderingIndex": 10
+      },
+      {
+          "key": "milestone-11",
+          "heading": "Nonprofit Partnership Committee becomes its own department ",
+          "description": {
+              "html": "<p>Originally part of the Product side of the organization, the NPP Committee is made its own branch of BoG to further improve the process of recruiting and maintaining nonprofit partners. They are tasked with reviewing nonprofit applications and meeting with potential new nonprofits to discuss their product needs and develop a proposal.</p>",
+              "inlineHtml": "Originally part of the Product side of the organization, the NPP Committee is made its own branch of BoG to further improve the process of recruiting and maintaining nonprofit partners. They are tasked with reviewing nonprofit applications and meeting with potential new nonprofits to discuss their product needs and develop a proposal."
+          },
+          "time": "Fall 2021",
+          "orderingIndex": 11
+      },
+      {
+          "key": "milestone-12",
+          "heading": "First in-person meeting since the beginning of COVID-19",
+          "description": {
+              "html": "<p>After COVID-19 forces us to work from home, the BoG community rejoices as it can finally meet in person again. With this comes fun events, in-person general meetings, and more!</p>",
+              "inlineHtml": "After COVID-19 forces us to work from home, the BoG community rejoices as it can finally meet in person again. With this comes fun events, in-person general meetings, and more!"
+          },
+          "time": "Spring 2022",
+          "orderingIndex": 12
+      }
+  ]
+}

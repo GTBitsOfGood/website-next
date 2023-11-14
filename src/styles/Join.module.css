@@ -1,0 +1,155 @@
+.divjumptosectionlinks {
+    display: none;
+    margin-bottom: 60px;
+  }
+
+  
+
+  .divjumptosectionlinksbuttonstudents {
+
+    border: 3px solid var(--primary-red);
+    font-size: 16px;
+    padding: 15px 20px;
+    margin: 15px;
+    color: #333;
+    border-radius: 10px;
+  }
+
+  .divjumptosectionlinksbuttonnonprofits {
+    border: 3px solid var(--primary-yellow);
+    font-size: 16px;
+    padding: 15px 20px;
+    margin: 15px;
+    color: #333;
+    border-radius: 10px;
+  }
+
+  .sectioncontentcontainer {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+
+  .sectioncontentcontainer :global(p) {
+    font-size: 18px;
+    margin: 40px 0;
+    line-height: 1.8em;
+  }
+
+  .sectioncontentstudents {
+    margin: 30px;
+    flex: 1;
+    flex-basis: 350px;
+  }
+
+  .sectioncontentnonprofits {
+    margin: 30px;
+    flex: 1;
+    flex-basis: 350px;
+  }
+
+  .sectioncontenth3 {
+    font-size: 32px;
+    margin-top: 70px;
+    margin-bottom: 15px;
+  }
+
+  .sectioncontentstudentsh2 {
+    border-bottom: 4px solid var(--primary-red);
+    font-size: 48px;
+    padding-bottom: 5px;
+    margin-bottom: 30px;
+    display: inline-block;
+  }
+
+  .sectioncontentnonprofitsh2 {
+    border-bottom: 4px solid var(--primary-yellow);
+    font-size: 48px;
+    padding-bottom: 5px;
+    margin-bottom: 30px;
+    display: inline-block;
+  }
+
+  .sectioncontentptagline {
+    margin-top: 0px;
+  }
+
+  .sectioncontentannouncementcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+
+  .sectioncontentannouncementcontainerpannouncement {
+    text-align: center;
+    margin: 0;
+    padding: 10px 20px;
+    border: 3px solid var(--primary-red);
+    border-radius: 10px;
+    font-size: 16px;
+    color: var(--primary-red);
+  }
+
+  .anonprofitcta {
+    display: inline-block;
+    margin-top: 30px;
+    font-size: 18px;
+    background: var(--primary-yellow);
+    padding: 15px 40px;
+    border-radius: 10px;
+    color: #333;
+    transition-property: box-shadow, transform;
+    transition-duration: 0.2s;
+  }
+  .anonprofitcta:hover {
+    color: #333;
+    transform: translateY(-10px);
+    box-shadow: var(--shadow-hover);
+  }
+
+  @media (min-width: 960px) {
+    .sectioncontentstudents {
+      margin-right: 60px;
+    }
+
+    .sectioncontentnonprofits {
+      margin-left: 60px;
+    }
+  }
+
+  @media (max-width: 819px) {
+    .divjumptosectionlinks {
+      display: flex;
+      justify-content: center;
+    }
+    .sectioncontentstudentsh2 {
+      font-size: 42px;
+      display: table;
+      margin-top: 0;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .sectioncontentnonprofitsh2 {
+        font-size: 42px;
+        display: table;
+        margin-top: 0;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+    .sectioncontentannouncementcontainer {
+      align-items: center;
+    }
+
+    .sectioncontentptagline {
+      text-align: center;
+    }
+
+    .anonprofitcta {
+      display: table;
+      margin: auto;
+    }
+  }

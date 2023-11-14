@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "studentTagline": {
+                "html": "<p>We are actively recruiting students to join our project teams and committees for Fall 2022!</p>",
+                "inlineHtml": "We are actively recruiting students to join our project teams and committees for Fall 2022!"
+            },
+            "nonprofitTagline": {
+                "html": "<p>We build software, websites, and mobile apps to turn your ideas into real products. </p>",
+                "inlineHtml": "We build software, websites, and mobile apps to turn your ideas into real products. "
+            },
+            "nonprofitSection": {
+                "html": "<p>If you have an existing project or a team, we are happy to get involved in your development cycle.</p><p>We&#39;ll get in touch to understand your needs and figure out how we can help. Contact us <a href=\"/contact\">here</a> for any questions you have in mind that were not answered in the application!</p>",
+                "inlineHtml": "If you have an existing project or a team, we are happy to get involved in your development cycle.We&#39;ll get in touch to understand your needs and figure out how we can help. Contact us <a href=\"/contact\">here</a> for any questions you have in mind that were not answered in the application!"
+            },
+            "nonprofitCta": "Apply",
+            "nonprofitCtaUrl": "https://apply.bitsofgood.org",
+            "footerText": {
+                "html": "<p>Reach out to <a href=\"mailto:hello@bitsofgood.org\">hello@bitsofgood.org</a> for any questions. Subscribe to our newsletter to stay updated!</p>",
+                "inlineHtml": "Reach out to <a href=\"mailto:hello@bitsofgood.org\">hello@bitsofgood.org</a> for any questions. Subscribe to our newsletter to stay updated!"
+            },
+            "newsletterCta": "Get the newsletter 🚀",
+            "newsletterUrl": "https://bitsofgood.us16.list-manage.com/subscribe/post?u=45c4fe0ca061b2ce62e43e72f&id=0901f33185",
+            "headingImageLeft": {
+                "src": "//images.ctfassets.net/zifivti966xh/2ORw5g3nkypsovgkZ5Gbi0/ffd4901e872fef75ab1e188caa464d41/man-left.svg",
+                "alt": "abstract man flying with laptop"
+            },
+            "headingImageRight": {
+                "src": "//images.ctfassets.net/zifivti966xh/29qVd289IyYRIAWKdcVPkf/dc9710fa5fb63718a60f28f8a2325a8d/woman-right.svg",
+                "alt": "Abstract woman flying upwards with paint brush"
+            }
+        }
+    ]
+}
