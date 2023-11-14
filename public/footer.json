@@ -1,0 +1,70 @@
+{
+  "data": [
+      {
+          "ctaHeader": "Have a problem? We’re here to help.",
+          "cta": {
+              "url": "/contact",
+              "text": "Let’s talk"
+          },
+          "hack4impactLink": {
+              "url": "https://hack4impact.org",
+              "image": {
+                  "src": "//images.ctfassets.net/zifivti966xh/1EWGBoUOJzl8UqfUeMZXDq/bd66487dc0e08655850f8f880a209ce0/h4i-logo.svg",
+                  "alt": "A hack4impact chapter"
+              }
+          },
+          "bitsOfGoodHomeLink": {
+              "url": "https://bitsofgood.org",
+              "image": {
+                  "src": "//images.ctfassets.net/zifivti966xh/5nCe2OcagxfVoASgu6YTYs/73760e3e07a375778caa3e905cb3371d/bog-logo-footer.svg",
+                  "alt": "Bits of Good"
+              }
+          },
+          "titleColumn1": "General",
+          "linksColumn1": [
+              {
+                  "url": "/projects",
+                  "text": "Projects"
+              },
+              {
+                  "url": "/about",
+                  "text": "About Us"
+              },
+              {
+                  "url": "/about/roles",
+                  "text": "Open Roles"
+              }
+          ],
+          "titleColumn2": "Get Involved",
+          "linksColumn2": [
+              {
+                  "url": "/join#students",
+                  "text": "Students"
+              },
+              {
+                  "url": "/join#nonprofits",
+                  "text": "Nonprofits"
+              },
+              {
+                  "url": "/contact",
+                  "text": "Contact Us"
+              }
+          ],
+          "titleColumn3": "Social Media",
+          "linksColumn3": [
+              {
+                  "url": "https://www.facebook.com/GTBitsOfGood/",
+                  "text": "Facebook"
+              },
+              {
+                  "url": "https://www.instagram.com/gtbitsofgood/",
+                  "text": "Instagram"
+              },
+              {
+                  "url": "https://github.com/GTBitsOfGood/",
+                  "text": "GitHub"
+              }
+          ]
+      }
+  ]
+}

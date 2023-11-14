@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import classes from "../styles/Roles.module.css";
 import Department from "../components/about-us/roles/Department";
+import Layout from "@/components/layout/layout";
 
 interface DepartmentData {
   name: string;
@@ -92,68 +93,72 @@ const RolesPage = () => {
   };
 
   return (
-    <div className={classes.heading}>
-      {headerContent && (
-        <section className={classes.banner}>
-          <div className={classes.headcontainer}>
-            <h1 className={classes.h1}>{headerContent[0].title}</h1>
-            <p className={classes.bannerP}>{headerContent[0].tagline}</p>
-          </div>
+    <Layout>
 
-          <img
-            className={classes.imageLeft}
-            src={headerContent[0].desktopBannerImages[0].src}
-            alt={headerContent[0].desktopBannerImages[0].alt}
-          />
-          <img
-            className={classes.mobileimageLeft}
-            src={headerContent[0].mobileBannerImages[0].src}
-            alt={headerContent[0].mobileBannerImages[0].alt}
-          />
-          <img
-            className={classes.imageRight}
-            src={headerContent[0].desktopBannerImages[1].src}
-            alt={headerContent[0].desktopBannerImages[1].alt}
-          />
-          <img
-            className={classes.mobileimageRight}
-            src={headerContent[0].mobileBannerImages[1].src}
-            alt={headerContent[0].mobileBannerImages[1].alt}
-          />
-        </section>
-      )}
-      {departments && (
-        <section className={classes.linksContainer}>
-          <p className={classes.linksContainerP}>
-            We offer {departments.length} unique roles
-          </p>
-          <div className={classes.deptlinks}>
-            {departments.map(({ image, name, hash }) => (
-              <button
-                className={classes.deptlinksbutton}
-                key={hash}
-                onClick={() => scrollToDepartment(hash)}
-              >
-                <img
-                  className={classes.deptlinksimg}
-                  src={image.src}
-                  alt={image.alt}
-                />
-                <p className={classes.deptlinksp}>{name}</p>
-              </button>
-            ))}
-          </div>
-        </section>
-      )}
-      {departments &&
-        departments.map((department, index) => (
-          <Department
-            rightAlign={index % 2 === 1}
-            key={department.hash}
-            {...department}
-          />
-        ))}
-    </div>
+      <div className={classes.heading}>
+        {headerContent && (
+          <section className={classes.banner}>
+            <div className={classes.headcontainer}>
+              <h1 className={classes.h1}>{headerContent[0].title}</h1>
+              <p className={classes.bannerP}>{headerContent[0].tagline}</p>
+            </div>
+
+            <img
+              className={classes.imageLeft}
+              src={headerContent[0].desktopBannerImages[0].src}
+              alt={headerContent[0].desktopBannerImages[0].alt}
+            />
+            <img
+              className={classes.mobileimageLeft}
+              src={headerContent[0].mobileBannerImages[0].src}
+              alt={headerContent[0].mobileBannerImages[0].alt}
+            />
+            <img
+              className={classes.imageRight}
+              src={headerContent[0].desktopBannerImages[1].src}
+              alt={headerContent[0].desktopBannerImages[1].alt}
+            />
+            <img
+              className={classes.mobileimageRight}
+              src={headerContent[0].mobileBannerImages[1].src}
+              alt={headerContent[0].mobileBannerImages[1].alt}
+            />
+          </section>
+        )}
+        {departments && (
+          <section className={classes.linksContainer}>
+            <p className={classes.linksContainerP}>
+              We offer {departments.length} unique roles
+            </p>
+            <div className={classes.deptlinks}>
+              {departments.map(({ image, name, hash }) => (
+                <button
+                  className={classes.deptlinksbutton}
+                  key={hash}
+                  onClick={() => scrollToDepartment(hash)}
+                >
+                  <img
+                    className={classes.deptlinksimg}
+                    src={image.src}
+                    alt={image.alt}
+                  />
+                  <p className={classes.deptlinksp}>{name}</p>
+                </button>
+              ))}
+            </div>
+          </section>
+        )}
+        {departments &&
+          departments.map((department, index) => (
+            <Department
+              rightAlign={index % 2 === 1}
+              key={department.hash}
+              {...department}
+            />
+          ))}
+      </div>
+
+    </Layout>
   );
 };
 
