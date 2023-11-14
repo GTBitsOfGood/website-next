@@ -1,8 +1,7 @@
 import { useState, useEffect } from "react";
 import classes from "../styles/Roles.module.css";
 import Department from "../components/about-us/roles/Department";
-import Nav from "@/components/layout/Nav/Nav";
-import Footer from "@/components/layout/Footer/Footer";
+import Layout from "@/components/layout/layout";
 
 interface DepartmentData {
   name: string;
@@ -94,8 +93,8 @@ const RolesPage = () => {
   };
 
   return (
-    <>
-      <Nav></Nav>
+    <Layout>
+
       <div className={classes.heading}>
         {headerContent && (
           <section className={classes.banner}>
@@ -158,8 +157,8 @@ const RolesPage = () => {
             />
           ))}
       </div>
-      <Footer></Footer>
-    </>
+
+    </Layout>
   );
 };
 

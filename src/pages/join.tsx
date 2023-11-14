@@ -4,8 +4,7 @@ import JoinRole from "@/components/JoinRole";
 import JoinHeading from "@/components/JoinHeading";
 import JoinFooter from "@/components/JoinFooter";
 import styles from "@/styles/Join.module.css";
-import Nav from "@/components/layout/Nav/Nav";
-import Footer from "@/components/layout/Footer/Footer";
+import Layout from "@/components/layout/layout";
 
 export default function Join() {
   const [activeCycles, setActiveCycles] = useState<JoinData[]>([]);
@@ -39,8 +38,7 @@ export default function Join() {
   }, []);
 
   return (
-    <>
-      <Nav></Nav>
+    <Layout>
       <JoinHeading
         currentTerm={activeCycles[0] && activeCycles[0].term}
         headingImageLeft={content[0] && content[0].headingImageLeft}
@@ -136,7 +134,7 @@ export default function Join() {
         headingImageLeft={content[0] && content[0].headingImageLeft}
         headingImageRight={content[0] && content[0].headingImageRight}
       />
-      <Footer></Footer>
-    </>
+
+    </Layout>
   );
 }
